@@ -20,10 +20,12 @@
       "Lawrence Berkley National Laboratory",
       "Massachusetts Institute of Technology",
       "New Mexico State University",
+      "North Dakota State University",
       "Oak Ridge National Laboratory",
       "Ohio Supercomputer Center",
       "Pittsburgh Supercomputing Center",
       "Purdue University",
+      "Southern Illinois University Edwardsville",
       "Swinburne University of Technology",
       "Syracuse University",
       "Texas Advanced Computing Center",
@@ -49,7 +51,7 @@
       "University of Wisconsin",
       "Wayne State University"
     ],
-    "num_facilities": 47
+    "num_facilities": 49
   },
   "oscf_or_osdf": {
     "facilities": [
@@ -78,10 +80,12 @@
       "Lawrence Berkley National Laboratory",
       "Massachusetts Institute of Technology",
       "New Mexico State University",
+      "North Dakota State University",
       "Oak Ridge National Laboratory",
       "Ohio Supercomputer Center",
       "Pittsburgh Supercomputing Center",
       "Purdue University",
+      "Southern Illinois University Edwardsville",
       "Swinburne University of Technology",
       "Syracuse University",
       "Texas Advanced Computing Center",
@@ -109,7 +113,7 @@
       "University of Wisconsin",
       "Wayne State University"
     ],
-    "num_facilities": 55
+    "num_facilities": 57
   },
   "osdf": {
     "facilities": [
