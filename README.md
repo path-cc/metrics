@@ -11,3 +11,7 @@ The following metrics results are for the past 7 days.
 
 [`campuses-with-active-researchers.csv`](campuses-with-active-researchers.csv)
 
+### OSG CPU Hours
+
+[`osg-cpu-hours.json`](osg-cpu-hours.json)
+
