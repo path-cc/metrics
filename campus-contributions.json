@@ -2,7 +2,6 @@
   "oscf": {
     "facilities": [
       "American Museum of Natural History",
-      "Arizona State University",
       "Boston University",
       "Brookhaven National Laboratory",
       "California Institute of Technology",
@@ -51,12 +50,11 @@
       "University of Wisconsin",
       "Wayne State University"
     ],
-    "num_facilities": 49
+    "num_facilities": 48
   },
   "oscf_or_osdf": {
     "facilities": [
       "American Museum of Natural History",
-      "Arizona State University",
       "Boston University",
       "Brookhaven National Laboratory",
       "California Institute of Technology",
@@ -113,7 +111,7 @@
       "University of Wisconsin",
       "Wayne State University"
     ],
-    "num_facilities": 57
+    "num_facilities": 56
   },
   "osdf": {
     "facilities": [
