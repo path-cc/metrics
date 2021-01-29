@@ -1,4 +1,7 @@
 {
+  "begin_date": "2021-01-22",
+  "end_date": "2021-01-28",
+  "generated_at": "2021-01-29 15:40",
   "oscf": {
     "facilities": [
       "American Museum of Natural History",
@@ -9,6 +12,7 @@
       "Cinvestav",
       "Clarkson University",
       "Clemson University",
+      "Compute Canada",
       "Cybera",
       "Fermi National Accelerator Laboratory",
       "Florida State University",
@@ -50,7 +54,7 @@
       "University of Wisconsin",
       "Wayne State University"
     ],
-    "num_facilities": 48
+    "num_facilities": 49
   },
   "oscf_or_osdf": {
     "facilities": [
@@ -63,6 +67,7 @@
       "Cinvestav",
       "Clarkson University",
       "Clemson University",
+      "Compute Canada",
       "Cybera",
       "Fermi National Accelerator Laboratory",
       "Florida State University",
@@ -111,7 +116,7 @@
       "University of Wisconsin",
       "Wayne State University"
     ],
-    "num_facilities": 56
+    "num_facilities": 57
   },
   "osdf": {
     "facilities": [

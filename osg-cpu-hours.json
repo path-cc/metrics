@@ -1,0 +1,137 @@
+{
+ "all_non_lhc": [
+  "0",
+  "48,671,922",
+  "574,365,737"
+ ],
+ "amnh_count": [
+  0,
+  3,
+  5
+ ],
+ "amnh_fqdns": [
+  [],
+  [
+   "AMNH-ARES (hosted-ce22.opensciencegrid.org)",
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "AMNH-Mendel (hosted-ce39.opensciencegrid.org)"
+  ],
+  [
+   "AMNH-ARES (hosted-ce22.opensciencegrid.org)",
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "AMNH-Mendel (hosted-ce39.opensciencegrid.org)",
+   "OSG_US_AMNH_ARES (hosted-ce22.grid.uchicago.edu)",
+   "OSG_US_AMNH_HEL (hosted-ce36.grid.uchicago.edu)"
+  ]
+ ],
+ "amnh_usage": [
+  "0",
+  "158,683",
+  "3,322,500"
+ ],
+ "campus_orgs": [
+  "0",
+  "1,615,928",
+  "33,319,396"
+ ],
+ "cc_star_count": [
+  0,
+  15,
+  20
+ ],
+ "cc_star_fqdns": [
+  [],
+  [
+   "AMNH-ARES (hosted-ce22.opensciencegrid.org)",
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "AMNH-Mendel (hosted-ce39.opensciencegrid.org)",
+   "Clarkson-ACRES (hosted-ce37.opensciencegrid.org)",
+   "Georgia_Tech_PACE_CE_2 (osg-sched2.pace.gatech.edu)",
+   "Purdue-Geddes (geddes.rcac.purdue.edu)",
+   "SDSC-Triton_Stratus (hosted-ce38.opensciencegrid.org)",
+   "SLATE_US_NMSU_DISCOVERY (osg-ce.nmsu.edu)",
+   "SU-ITS-CE2 (its-condor-ce2.syr.edu)",
+   "SU-ITS-CE3 (its-condor-ce3.syr.edu)",
+   "SU-ITS-CE4 (its-condor-ce4.syr.edu)",
+   "TCNJ-ELSA (hosted-ce30.opensciencegrid.org)",
+   "Tufts-Cluster (tufts-cluster-ce1.svc.opensciencegrid.org)",
+   "UConn-HPC_CE (osgce.storrs.hpc.uconn.edu)",
+   "WSU-GRID (hosted-ce33.opensciencegrid.org)"
+  ],
+  [
+   "AMNH-ARES (hosted-ce22.opensciencegrid.org)",
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "AMNH-Mendel (hosted-ce39.opensciencegrid.org)",
+   "Clarkson-ACRES (hosted-ce37.opensciencegrid.org)",
+   "Georgia_Tech_PACE_CE_2 (osg-sched2.pace.gatech.edu)",
+   "ND-CAML_gpu (hosted-ce35.opensciencegrid.org)",
+   "OSG_US_AMNH_ARES (hosted-ce22.grid.uchicago.edu)",
+   "OSG_US_AMNH_HEL (hosted-ce36.grid.uchicago.edu)",
+   "OSG_US_TCNJ_ELSA (hosted-ce30.grid.uchicago.edu)",
+   "Purdue-Geddes (geddes.rcac.purdue.edu)",
+   "SDSC-Triton_Stratus (hosted-ce38.opensciencegrid.org)",
+   "SLATE_US_NMSU_DISCOVERY (osg-ce.nmsu.edu)",
+   "SU-ITS-CE2 (its-condor-ce2.syr.edu)",
+   "SU-ITS-CE3 (its-condor-ce3.syr.edu)",
+   "SU-ITS-CE4 (its-condor-ce4.syr.edu)",
+   "TCNJ-ELSA (hosted-ce30.opensciencegrid.org)",
+   "Tufts-Cluster (tufts-cluster-ce1.svc.opensciencegrid.org)",
+   "UConn-HPC_CE (osgce.storrs.hpc.uconn.edu)",
+   "WSU - GRID_ce2 (hosted-ce33.grid.uchicago.edu)",
+   "WSU-GRID (hosted-ce33.opensciencegrid.org)"
+  ]
+ ],
+ "cc_star_gpu_count": [
+  0,
+  5,
+  9
+ ],
+ "cc_star_gpu_fqdns": [
+  [],
+  [
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "AMNH-Mendel (hosted-ce39.opensciencegrid.org)",
+   "SU-ITS-CE2 (its-condor-ce2.syr.edu)",
+   "SU-ITS-CE3 (its-condor-ce3.syr.edu)",
+   "WSU-GRID (hosted-ce33.opensciencegrid.org)"
+  ],
+  [
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "AMNH-Mendel (hosted-ce39.opensciencegrid.org)",
+   "ND - CAML_GPU (hosted-ce35.grid.uchicago.edu)",
+   "OSG_US_TCNJ_ELSA (hosted-ce30.grid.uchicago.edu)",
+   "SU-ITS-CE2 (its-condor-ce2.syr.edu)",
+   "SU-ITS-CE3 (its-condor-ce3.syr.edu)",
+   "TCNJ-ELSA (hosted-ce30.opensciencegrid.org)",
+   "WSU - GRID_ce2 (hosted-ce33.grid.uchicago.edu)",
+   "WSU-GRID (hosted-ce33.opensciencegrid.org)"
+  ]
+ ],
+ "cc_star_gpu_usage": [
+  "0",
+  "46,975",
+  "531,302"
+ ],
+ "cc_star_usage": [
+  "0",
+  "17,217,020",
+  "153,289,795"
+ ],
+ "gpu_usage": [
+  "0",
+  "1,139,438",
+  "8,822,809"
+ ],
+ "last_update": 1611934835,
+ "last_update_str": "2021-01-29 15:40",
+ "multi_inst": [
+  "0",
+  "21,124,881",
+  "232,750,818"
+ ],
+ "osg_connect": [
+  "0",
+  "25,931,111",
+  "308,295,522"
+ ]
+}
