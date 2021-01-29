@@ -13,3 +13,7 @@ Last generated: 2021-01-29 at 16:15
 
 [`campuses-with-active-researchers.csv`](campuses-with-active-researchers.csv)
 
+### OSG CPU Hours
+
+[`osg-cpu-hours.json`](osg-cpu-hours.json)
+
