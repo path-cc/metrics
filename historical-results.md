@@ -1,6 +1,12 @@
 Historical Metric Results
 =========================
 
+[`2021-02-03_1809.osg-cpu-hours.json`](historical/2021-02-03_1809.osg-cpu-hours.json)
+
+[`2021-02-03_1809.campuses-with-active-researchers.csv`](historical/2021-02-03_1809.campuses-with-active-researchers.csv)
+
+[`2021-02-03_1809.campus-contributions.json`](historical/2021-02-03_1809.campus-contributions.json)
+
 [`2021-02-02_1811.osg-cpu-hours.json`](historical/2021-02-02_1811.osg-cpu-hours.json)
 
 [`2021-02-02_1811.campuses-with-active-researchers.csv`](historical/2021-02-02_1811.campuses-with-active-researchers.csv)
