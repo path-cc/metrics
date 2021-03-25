@@ -17,6 +17,10 @@ Last generated: 2021-03-24 at 19:27 CDT
 
 [`osg-cpu-hours.json`](osg-cpu-hours.json)
 
+### OSG Wait Time
+
+[`osg-waittime.csv`](osg-waittime.csv)
+
 ### Historical Results
 
 [Historical Results](historical-results)
