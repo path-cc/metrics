@@ -1,6 +1,14 @@
 Historical Metric Results
 =========================
 
+[`2021-06-04_2050.osg-waittime.csv`](historical/2021-06-04_2050.osg-waittime.csv)
+
+[`2021-06-04_2050.osg-cpu-hours.json`](historical/2021-06-04_2050.osg-cpu-hours.json)
+
+[`2021-06-04_2050.campuses-with-active-researchers.csv`](historical/2021-06-04_2050.campuses-with-active-researchers.csv)
+
+[`2021-06-04_2050.campus-contributions.json`](historical/2021-06-04_2050.campus-contributions.json)
+
 [`2021-06-04_0941.osg-waittime.csv`](historical/2021-06-04_0941.osg-waittime.csv)
 
 [`2021-06-04_0941.osg-cpu-hours.json`](historical/2021-06-04_0941.osg-cpu-hours.json)
@@ -15,15 +23,11 @@ Historical Metric Results
 
 [`2021-06-03_1200.campuses-with-active-researchers.csv`](historical/2021-06-03_1200.campuses-with-active-researchers.csv)
 
-[`2021-06-03_1200.campus-contributions.json`](historical/2021-06-03_1200.campus-contributions.json)
-
 [`2021-06-02_1200.osg-waittime.csv`](historical/2021-06-02_1200.osg-waittime.csv)
 
 [`2021-06-02_1200.osg-cpu-hours.json`](historical/2021-06-02_1200.osg-cpu-hours.json)
 
 [`2021-06-02_1200.campuses-with-active-researchers.csv`](historical/2021-06-02_1200.campuses-with-active-researchers.csv)
-
-[`2021-06-02_1200.campus-contributions.json`](historical/2021-06-02_1200.campus-contributions.json)
 
 [`2021-06-01_1200.osg-waittime.csv`](historical/2021-06-01_1200.osg-waittime.csv)
 
@@ -31,15 +35,11 @@ Historical Metric Results
 
 [`2021-06-01_1200.campuses-with-active-researchers.csv`](historical/2021-06-01_1200.campuses-with-active-researchers.csv)
 
-[`2021-06-01_1200.campus-contributions.json`](historical/2021-06-01_1200.campus-contributions.json)
-
 [`2021-05-31_1200.osg-waittime.csv`](historical/2021-05-31_1200.osg-waittime.csv)
 
 [`2021-05-31_1200.osg-cpu-hours.json`](historical/2021-05-31_1200.osg-cpu-hours.json)
 
 [`2021-05-31_1200.campuses-with-active-researchers.csv`](historical/2021-05-31_1200.campuses-with-active-researchers.csv)
-
-[`2021-05-31_1200.campus-contributions.json`](historical/2021-05-31_1200.campus-contributions.json)
 
 [`2021-05-30_1200.osg-waittime.csv`](historical/2021-05-30_1200.osg-waittime.csv)
 
@@ -47,15 +47,11 @@ Historical Metric Results
 
 [`2021-05-30_1200.campuses-with-active-researchers.csv`](historical/2021-05-30_1200.campuses-with-active-researchers.csv)
 
-[`2021-05-30_1200.campus-contributions.json`](historical/2021-05-30_1200.campus-contributions.json)
-
 [`2021-05-29_1200.osg-waittime.csv`](historical/2021-05-29_1200.osg-waittime.csv)
 
 [`2021-05-29_1200.osg-cpu-hours.json`](historical/2021-05-29_1200.osg-cpu-hours.json)
 
 [`2021-05-29_1200.campuses-with-active-researchers.csv`](historical/2021-05-29_1200.campuses-with-active-researchers.csv)
-
-[`2021-05-29_1200.campus-contributions.json`](historical/2021-05-29_1200.campus-contributions.json)
 
 [`2021-05-28_1200.osg-waittime.csv`](historical/2021-05-28_1200.osg-waittime.csv)
 
@@ -63,15 +59,11 @@ Historical Metric Results
 
 [`2021-05-28_1200.campuses-with-active-researchers.csv`](historical/2021-05-28_1200.campuses-with-active-researchers.csv)
 
-[`2021-05-28_1200.campus-contributions.json`](historical/2021-05-28_1200.campus-contributions.json)
-
 [`2021-05-27_1200.osg-waittime.csv`](historical/2021-05-27_1200.osg-waittime.csv)
 
 [`2021-05-27_1200.osg-cpu-hours.json`](historical/2021-05-27_1200.osg-cpu-hours.json)
 
 [`2021-05-27_1200.campuses-with-active-researchers.csv`](historical/2021-05-27_1200.campuses-with-active-researchers.csv)
-
-[`2021-05-27_1200.campus-contributions.json`](historical/2021-05-27_1200.campus-contributions.json)
 
 [`2021-05-26_1200.osg-waittime.csv`](historical/2021-05-26_1200.osg-waittime.csv)
 
@@ -79,23 +71,17 @@ Historical Metric Results
 
 [`2021-05-26_1200.campuses-with-active-researchers.csv`](historical/2021-05-26_1200.campuses-with-active-researchers.csv)
 
-[`2021-05-26_1200.campus-contributions.json`](historical/2021-05-26_1200.campus-contributions.json)
-
 [`2021-05-25_1200.osg-waittime.csv`](historical/2021-05-25_1200.osg-waittime.csv)
 
 [`2021-05-25_1200.osg-cpu-hours.json`](historical/2021-05-25_1200.osg-cpu-hours.json)
 
 [`2021-05-25_1200.campuses-with-active-researchers.csv`](historical/2021-05-25_1200.campuses-with-active-researchers.csv)
 
-[`2021-05-25_1200.campus-contributions.json`](historical/2021-05-25_1200.campus-contributions.json)
-
 [`2021-05-24_1200.osg-waittime.csv`](historical/2021-05-24_1200.osg-waittime.csv)
 
 [`2021-05-24_1200.osg-cpu-hours.json`](historical/2021-05-24_1200.osg-cpu-hours.json)
 
 [`2021-05-24_1200.campuses-with-active-researchers.csv`](historical/2021-05-24_1200.campuses-with-active-researchers.csv)
-
-[`2021-05-24_1200.campus-contributions.json`](historical/2021-05-24_1200.campus-contributions.json)
 
 [`2021-05-23_1927.osg-waittime.csv`](historical/2021-05-23_1927.osg-waittime.csv)
 
