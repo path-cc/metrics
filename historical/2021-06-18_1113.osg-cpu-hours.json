@@ -1,0 +1,173 @@
+{
+ "all_non_lhc": [
+  "1,435,889",
+  "41,279,624",
+  "578,830,120"
+ ],
+ "amnh_count": [
+  3,
+  3,
+  5
+ ],
+ "amnh_fqdns": [
+  [
+   "AMNH-ARES (hosted-ce22.opensciencegrid.org)",
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "AMNH-Mendel (hosted-ce39.opensciencegrid.org)"
+  ],
+  [
+   "AMNH-ARES (hosted-ce22.opensciencegrid.org)",
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "AMNH-Mendel (hosted-ce39.opensciencegrid.org)"
+  ],
+  [
+   "AMNH-ARES (hosted-ce22.opensciencegrid.org)",
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "AMNH-Mendel (hosted-ce39.opensciencegrid.org)",
+   "OSG_US_AMNH_ARES (hosted-ce22.grid.uchicago.edu)",
+   "OSG_US_AMNH_HEL (hosted-ce36.grid.uchicago.edu)"
+  ]
+ ],
+ "amnh_usage": [
+  "23,708",
+  "453,388",
+  "5,315,271"
+ ],
+ "campus_orgs": [
+  "150,476",
+  "2,817,575",
+  "36,921,989"
+ ],
+ "cc_star_count": [
+  15,
+  17,
+  24
+ ],
+ "cc_star_fqdns": [
+  [
+   "AMNH-ARES (hosted-ce22.opensciencegrid.org)",
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "AMNH-Mendel (hosted-ce39.opensciencegrid.org)",
+   "Georgia_Tech_PACE_CE_2 (osg-sched2.pace.gatech.edu)",
+   "LEHIGH-HAWK-CE (osg-hawk-ce.cc.lehigh.edu)",
+   "LSU-DB-CE1 (lsu-db-ce1.svc.opensciencegrid.org)",
+   "LSUHSC-Tigerfish-CE1 (lsuhsc-tf-ce1.svc.opensciencegrid.org)",
+   "SDSC-TS-CE1 (sdsc-ts-ce1.svc.opensciencegrid.org)",
+   "SLATE_US_NMSU_DISCOVERY (osg-ce.nmsu.edu)",
+   "SU-ITS-CE2 (its-condor-ce2.syr.edu)",
+   "SU-ITS-CE3 (its-condor-ce3.syr.edu)",
+   "SU-ITS-CE4 (its-condor-ce4.syr.edu)",
+   "TCNJ-ELSA (tcnj-elsa-ce1.svc.opensciencegrid.org)",
+   "UConn-HPC_CE (osgce.storrs.hpc.uconn.edu)",
+   "WSU-GRID (hosted-ce33.opensciencegrid.org)"
+  ],
+  [
+   "AMNH-ARES (hosted-ce22.opensciencegrid.org)",
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "AMNH-Mendel (hosted-ce39.opensciencegrid.org)",
+   "Georgia_Tech_PACE_CE_2 (osg-sched2.pace.gatech.edu)",
+   "LEHIGH-HAWK-CE (osg-hawk-ce.cc.lehigh.edu)",
+   "LSU-DB-CE1 (lsu-db-ce1.svc.opensciencegrid.org)",
+   "LSUHSC-Tigerfish-CE1 (lsuhsc-tf-ce1.svc.opensciencegrid.org)",
+   "ND-CAML_gpu (hosted-ce35.opensciencegrid.org)",
+   "OSG_US_SIUE_CC (cc-condor.hpc.siue.edu)",
+   "SDSC-TS-CE1 (sdsc-ts-ce1.svc.opensciencegrid.org)",
+   "SLATE_US_NMSU_DISCOVERY (osg-ce.nmsu.edu)",
+   "SU-ITS-CE2 (its-condor-ce2.syr.edu)",
+   "SU-ITS-CE3 (its-condor-ce3.syr.edu)",
+   "SU-ITS-CE4 (its-condor-ce4.syr.edu)",
+   "TCNJ-ELSA (tcnj-elsa-ce1.svc.opensciencegrid.org)",
+   "UConn-HPC_CE (osgce.storrs.hpc.uconn.edu)",
+   "WSU-GRID (hosted-ce33.opensciencegrid.org)"
+  ],
+  [
+   "AMNH-ARES (hosted-ce22.opensciencegrid.org)",
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "AMNH-Mendel (hosted-ce39.opensciencegrid.org)",
+   "Clarkson-ACRES (hosted-ce37.opensciencegrid.org)",
+   "Georgia_Tech_PACE_CE_2 (osg-sched2.pace.gatech.edu)",
+   "LEHIGH-HAWK-CE (osg-hawk-ce.cc.lehigh.edu)",
+   "LSU-DB-CE1 (lsu-db-ce1.svc.opensciencegrid.org)",
+   "LSUHSC-Tigerfish-CE1 (lsuhsc-tf-ce1.svc.opensciencegrid.org)",
+   "ND-CAML_gpu (hosted-ce35.opensciencegrid.org)",
+   "OSG_US_AMNH_ARES (hosted-ce22.grid.uchicago.edu)",
+   "OSG_US_AMNH_HEL (hosted-ce36.grid.uchicago.edu)",
+   "OSG_US_SIUE_CC (cc-condor.hpc.siue.edu)",
+   "OSG_US_TCNJ_ELSA (hosted-ce30.grid.uchicago.edu)",
+   "SDSC-TS-CE1 (sdsc-ts-ce1.svc.opensciencegrid.org)",
+   "SLATE_US_NMSU_DISCOVERY (osg-ce.nmsu.edu)",
+   "SU-ITS-CE2 (its-condor-ce2.syr.edu)",
+   "SU-ITS-CE3 (its-condor-ce3.syr.edu)",
+   "SU-ITS-CE4 (its-condor-ce4.syr.edu)",
+   "TCNJ-ELSA (tcnj-elsa-ce1.svc.opensciencegrid.org)",
+   "TCNJ-ELSA-old (hosted-ce30.opensciencegrid.org)",
+   "Tufts-Cluster (tufts-cluster-ce1.svc.opensciencegrid.org)",
+   "UConn-HPC_CE (osgce.storrs.hpc.uconn.edu)",
+   "WSU - GRID_ce2 (hosted-ce33.grid.uchicago.edu)",
+   "WSU-GRID (hosted-ce33.opensciencegrid.org)"
+  ]
+ ],
+ "cc_star_gpu_count": [
+  5,
+  6,
+  12
+ ],
+ "cc_star_gpu_fqdns": [
+  [
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "Georgia_Tech_PACE_CE_2 (osg-sched2.pace.gatech.edu)",
+   "SU-ITS-CE2 (its-condor-ce2.syr.edu)",
+   "SU-ITS-CE3 (its-condor-ce3.syr.edu)",
+   "WSU-GRID (hosted-ce33.opensciencegrid.org)"
+  ],
+  [
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "Georgia_Tech_PACE_CE_2 (osg-sched2.pace.gatech.edu)",
+   "LSU-DB-CE1 (lsu-db-ce1.svc.opensciencegrid.org)",
+   "SU-ITS-CE2 (its-condor-ce2.syr.edu)",
+   "SU-ITS-CE3 (its-condor-ce3.syr.edu)",
+   "WSU-GRID (hosted-ce33.opensciencegrid.org)"
+  ],
+  [
+   "AMNH-HEL (hosted-ce36.opensciencegrid.org)",
+   "AMNH-Mendel (hosted-ce39.opensciencegrid.org)",
+   "Georgia_Tech_PACE_CE_2 (osg-sched2.pace.gatech.edu)",
+   "LSU-DB-CE1 (lsu-db-ce1.svc.opensciencegrid.org)",
+   "ND - CAML_GPU (hosted-ce35.grid.uchicago.edu)",
+   "OSG_US_TCNJ_ELSA (hosted-ce30.grid.uchicago.edu)",
+   "SU-ITS-CE2 (its-condor-ce2.syr.edu)",
+   "SU-ITS-CE3 (its-condor-ce3.syr.edu)",
+   "TCNJ-ELSA (tcnj-elsa-ce1.svc.opensciencegrid.org)",
+   "Tufts-Cluster (tufts-cluster-ce1.svc.opensciencegrid.org)",
+   "WSU - GRID_ce2 (hosted-ce33.grid.uchicago.edu)",
+   "WSU-GRID (hosted-ce33.opensciencegrid.org)"
+  ]
+ ],
+ "cc_star_gpu_usage": [
+  "2,566",
+  "105,611",
+  "894,311"
+ ],
+ "cc_star_usage": [
+  "647,437",
+  "18,115,449",
+  "212,897,615"
+ ],
+ "gpu_usage": [
+  "22,817",
+  "713,943",
+  "11,951,060"
+ ],
+ "last_update": 1624032832,
+ "last_update_str": "2021-06-18 11:13",
+ "multi_inst": [
+  "670,404",
+  "19,708,220",
+  "239,082,724"
+ ],
+ "osg_connect": [
+  "615,007",
+  "18,753,828",
+  "302,825,406"
+ ]
+}
