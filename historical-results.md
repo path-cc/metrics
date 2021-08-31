@@ -1,6 +1,14 @@
 Historical Metric Results
 =========================
 
+[`2021-08-31_0150.osg-waittime.csv`](historical/2021-08-31_0150.osg-waittime.csv)
+
+[`2021-08-31_0150.osg-cpu-hours.json`](historical/2021-08-31_0150.osg-cpu-hours.json)
+
+[`2021-08-31_0150.campuses-with-active-researchers.csv`](historical/2021-08-31_0150.campuses-with-active-researchers.csv)
+
+[`2021-08-31_0150.campus-contributions.json`](historical/2021-08-31_0150.campus-contributions.json)
+
 [`2021-08-30_0150.osg-waittime.csv`](historical/2021-08-30_0150.osg-waittime.csv)
 
 [`2021-08-30_0150.osg-cpu-hours.json`](historical/2021-08-30_0150.osg-cpu-hours.json)
