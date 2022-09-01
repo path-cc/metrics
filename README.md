@@ -25,6 +25,10 @@ Last generated: 2022-09-01 at 01:53 CDT
 
 [`software-due-date-changes.csv`](software-due-date-changes.csv)
 
+### OSG Connect Origin Users
+
+[`connect-origin-users.json`](connect-origin-users.json)
+
 ### Historical Results
 
 [Historical Results](historical-results)
