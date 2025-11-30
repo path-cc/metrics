@@ -1,6 +1,18 @@
 Historical Metric Results
 =========================
 
+[`2025-11-30_1215.software-due-date-changes.csv`](historical/2025-11-30_1215.software-due-date-changes.csv)
+
+[`2025-11-30_1215.osg-waittime.csv`](historical/2025-11-30_1215.osg-waittime.csv)
+
+[`2025-11-30_1215.osg-cpu-hours.json`](historical/2025-11-30_1215.osg-cpu-hours.json)
+
+[`2025-11-30_1215.connect-origin-users.json`](historical/2025-11-30_1215.connect-origin-users.json)
+
+[`2025-11-30_1215.campuses-with-active-researchers.csv`](historical/2025-11-30_1215.campuses-with-active-researchers.csv)
+
+[`2025-11-30_1215.campus-contributions.json`](historical/2025-11-30_1215.campus-contributions.json)
+
 [`2025-11-29_0103.software-due-date-changes.csv`](historical/2025-11-29_0103.software-due-date-changes.csv)
 
 [`2025-11-29_0103.osg-waittime.csv`](historical/2025-11-29_0103.osg-waittime.csv)
