@@ -1,0 +1,2 @@
+Username,ProjectName,Start Time,End Time,Days of Zero Usage,Aggregate Hours In Queue,Max Minutes In Queue,Average Minutes In Queue,Standard Deviation in Minutes,90% Queue Time in Minutes,Aggregate Core Hours,Number of Jobs
+gregorypenn,futurecolliders,2026-03-10,2026-03-10,17,2951.7052777777776,22.733333333333334,11.889253267096311,6.031815922308261,20.533333333333335,1000.066111111111,14896
