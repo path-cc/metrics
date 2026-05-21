@@ -1,0 +1,2 @@
+ProjectName,Start Time,End Time,Days of Zero Usage,Aggregate Hours In Queue,Max Minutes In Queue,Average Minutes In Queue,Standard Deviation in Minutes,90% Queue Time in Minutes,Aggregate Core Hours,Number of Jobs
+futurecolliders,2026-04-22,2026-04-22,16,14276.253611111111,55.85,31.736762381128813,14.614821755233859,51.333333333333336,1000.0169444444505,26990
