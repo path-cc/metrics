@@ -1,0 +1,2 @@
+ProjectName,Start Time,End Time,Days of Zero Usage,Aggregate Hours In Queue,Max Minutes In Queue,Average Minutes In Queue,Standard Deviation in Minutes,90% Queue Time in Minutes,Aggregate Core Hours,Number of Jobs
+KOTO,2026-07-26,2026-07-31,21,5.197777777777778,10.95,1.591156462585034,1.3460731197709828,2.795,1000.2552777777778,196
