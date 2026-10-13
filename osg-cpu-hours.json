@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,295,244",
-  "50,401,915",
-  "473,021,242"
+  "1,481,341",
+  "50,423,178",
+  "473,459,285"
  ],
  "amnh_count": [
   2,
@@ -25,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "22,537",
-  "35,649",
-  "7,331,538"
+  "17,807",
+  "53,456",
+  "7,336,532"
  ],
  "campus_orgs": [
   "0",
@@ -35,7 +35,7 @@
   "162,322"
  ],
  "cc_star_count": [
-  36,
+  37,
   40,
   50
  ],
@@ -76,6 +76,7 @@
    "UIUC-TGI-RAILS-CE1 (uiuc-tgi-rails-ce1.svc.osg-htc.org)",
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
    "UWM-Mortimer-CE1 (uwm-mortimer-ce1.svc.osg-htc.org)",
+   "VU-AUGIE-CE1 (vu-augie-ce1.svc.opensciencegrid.org)",
    "WSU-GRID-CE1 (wsu-grid-ce1.svc.opensciencegrid.org)"
   ],
   [
@@ -174,12 +175,13 @@
   ]
  ],
  "cc_star_gpu_count": [
-  11,
-  16,
+  12,
+  14,
   20
  ],
  "cc_star_gpu_fqdns": [
   [
+   "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
    "Boise-State-Borah-CE1 (boise-state-borah-ce1.svc.osg-htc.org)",
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
@@ -202,8 +204,6 @@
    "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "SLU-Libra-CE1 (slu-libra-ce1.svc.osg-htc.org)",
-   "SU-ITS-CE2 (its-condor-ce2.syr.edu)",
-   "SU-ITS-CE3 (its-condor-ce3.syr.edu)",
    "TCNJ-ELSA-CE2 (tcnj-elsa-ce2.svc.opensciencegrid.org)",
    "UIUC-TGI-RAILS-CE1 (uiuc-tgi-rails-ce1.svc.osg-htc.org)",
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
@@ -234,30 +234,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "10,086",
-  "203,057",
-  "2,177,008"
+  "9,979",
+  "207,409",
+  "2,183,187"
  ],
  "cc_star_usage": [
-  "692,816",
-  "24,246,133",
-  "304,298,618"
+  "1,436,038",
+  "24,585,118",
+  "304,787,690"
  ],
  "gpu_usage": [
-  "34,973",
-  "355,092",
-  "5,554,452"
+  "23,382",
+  "372,326",
+  "5,559,443"
  ],
- "last_update": 1791787715,
- "last_update_str": "2026-10-12 01:48",
+ "last_update": 1791874107,
+ "last_update_str": "2026-10-13 01:48",
  "multi_inst": [
-  "356,268",
-  "13,007,137",
-  "130,131,819"
+  "541,142",
+  "13,063,933",
+  "130,363,447"
  ],
  "osg_connect": [
-  "938,976",
-  "37,394,778",
-  "342,727,101"
+  "940,198",
+  "37,359,245",
+  "342,933,515"
  ]
 }
