@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,481,341",
-  "50,423,178",
-  "473,459,285"
+  "1,404,608",
+  "50,726,250",
+  "474,077,175"
  ],
  "amnh_count": [
   2,
@@ -25,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "17,807",
-  "53,456",
-  "7,336,532"
+  "15,036",
+  "68,492",
+  "7,337,225"
  ],
  "campus_orgs": [
   "0",
@@ -35,7 +35,7 @@
   "162,322"
  ],
  "cc_star_count": [
-  37,
+  35,
   40,
   50
  ],
@@ -56,10 +56,8 @@
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "Maine-Penobscot-CE1 (maine-penobscot-ce1.svc.opensciencegrid.org)",
    "Missouri-Hellbender-CE1 (missouri-hellbender-ce1.svc.opensciencegrid.org)",
-   "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
-   "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "PDX-Orca-CE1 (pdx-orca-ce1.svc.osg-htc.org)",
    "PSU-LIGO (psu-ligo-ce1.svc.opensciencegrid.org)",
@@ -234,30 +232,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "9,979",
-  "207,409",
-  "2,183,187"
+  "4,221",
+  "208,816",
+  "2,183,851"
  ],
  "cc_star_usage": [
-  "1,436,038",
-  "24,585,118",
-  "304,787,690"
+  "498,079",
+  "24,533,093",
+  "304,512,176"
  ],
  "gpu_usage": [
-  "23,382",
-  "372,326",
-  "5,559,443"
+  "8,546",
+  "377,576",
+  "5,545,849"
  ],
- "last_update": 1791874107,
- "last_update_str": "2026-10-13 01:48",
+ "last_update": 1791960509,
+ "last_update_str": "2026-10-14 01:48",
  "multi_inst": [
-  "541,142",
-  "13,063,933",
-  "130,363,447"
+  "536,730",
+  "13,319,092",
+  "130,827,703"
  ],
  "osg_connect": [
-  "940,198",
-  "37,359,245",
-  "342,933,515"
+  "867,877",
+  "37,407,157",
+  "343,087,149"
  ]
 }
