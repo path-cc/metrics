@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,404,608",
-  "50,726,250",
-  "474,077,175"
+  "1,618,190",
+  "50,733,206",
+  "474,399,058"
  ],
  "amnh_count": [
   2,
@@ -25,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "15,036",
-  "68,492",
-  "7,337,225"
+  "14,399",
+  "82,891",
+  "7,335,450"
  ],
  "campus_orgs": [
   "0",
@@ -35,7 +35,7 @@
   "162,322"
  ],
  "cc_star_count": [
-  35,
+  34,
   40,
   50
  ],
@@ -59,7 +59,6 @@
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
-   "PDX-Orca-CE1 (pdx-orca-ce1.svc.osg-htc.org)",
    "PSU-LIGO (psu-ligo-ce1.svc.opensciencegrid.org)",
    "Rhodes-HPC-CE1 (rhodes-hpc-ce1.svc.osg-htc.org)",
    "SIUE-Kyna-CE1 (siue-kyna-ce1.svc.osg-htc.org)",
@@ -173,7 +172,7 @@
   ]
  ],
  "cc_star_gpu_count": [
-  12,
+  11,
   14,
   20
  ],
@@ -184,7 +183,6 @@
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
-   "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "SLU-Libra-CE1 (slu-libra-ce1.svc.osg-htc.org)",
    "TCNJ-ELSA-CE2 (tcnj-elsa-ce2.svc.opensciencegrid.org)",
@@ -232,30 +230,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "4,221",
-  "208,816",
-  "2,183,851"
+  "7,068",
+  "201,971",
+  "2,187,273"
  ],
  "cc_star_usage": [
-  "498,079",
-  "24,533,093",
-  "304,512,176"
+  "990,213",
+  "24,281,280",
+  "304,374,801"
  ],
  "gpu_usage": [
-  "8,546",
-  "377,576",
-  "5,545,849"
+  "16,405",
+  "377,270",
+  "5,545,394"
  ],
- "last_update": 1791960509,
- "last_update_str": "2026-10-14 01:48",
+ "last_update": 1792046908,
+ "last_update_str": "2026-10-15 01:48",
  "multi_inst": [
-  "536,730",
-  "13,319,092",
-  "130,827,703"
+  "791,884",
+  "13,507,296",
+  "131,246,086"
  ],
  "osg_connect": [
-  "867,877",
-  "37,407,157",
-  "343,087,149"
+  "826,306",
+  "37,225,909",
+  "342,990,649"
  ]
 }

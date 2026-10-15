@@ -1,7 +1,7 @@
 {
-  "begin_date": "2026-09-14",
-  "end_date": "2026-10-13",
-  "generated_at": "2026-10-14 01:48",
+  "begin_date": "2026-09-15",
+  "end_date": "2026-10-14",
+  "generated_at": "2026-10-15 01:48",
   "oscf": {
     "facilities": [
       "American Museum of Natural History",
@@ -78,6 +78,7 @@
       "University of Maine System",
       "University of Manitoba",
       "University of Michigan",
+      "University of Mississippi",
       "University of Missouri",
       "University of Nebraska System",
       "University of North Dakota",
@@ -96,7 +97,7 @@
       "Villanova University",
       "Wayne State University"
     ],
-    "num_facilities": 91
+    "num_facilities": 92
   },
   "oscf_or_osdf": {
     "facilities": [
@@ -191,6 +192,7 @@
       "University of Manitoba",
       "University of Massachusetts Amherst",
       "University of Michigan",
+      "University of Mississippi",
       "University of Missouri",
       "University of Nebraska System",
       "University of North Dakota",
@@ -209,7 +211,7 @@
       "Villanova University",
       "Wayne State University"
     ],
-    "num_facilities": 108
+    "num_facilities": 109
   },
   "osdf": {
     "facilities": [
