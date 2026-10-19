@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,597,942",
-  "50,690,527",
-  "475,893,162"
+  "1,773,134",
+  "50,684,155",
+  "476,751,738"
  ],
  "amnh_count": [
   2,
@@ -25,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "14,710",
-  "141,324",
-  "7,351,924"
+  "4,243",
+  "145,567",
+  "7,334,704"
  ],
  "campus_orgs": [
   "0",
@@ -35,7 +35,7 @@
   "162,322"
  ],
  "cc_star_count": [
-  34,
+  37,
   39,
   50
  ],
@@ -43,6 +43,7 @@
   [
    "AMNH-Huxley-CE1 (amnh-huxley-ce1.svc.osg-htc.org)",
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
+   "ASU-Sol-CE1 (asu-sol-ce1.svc.opensciencegrid.org)",
    "Alabama-CHPC-CE1 (ua-hpc-ce1.svc.osg-htc.org)",
    "Boise-State-Borah-CE1 (boise-state-borah-ce1.svc.osg-htc.org)",
    "Duke-NCShare-CE1 (duke-ncshare-ce1.svc.osg-htc.org)",
@@ -59,6 +60,7 @@
    "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
+   "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "PSU-LIGO (psu-ligo-ce1.svc.opensciencegrid.org)",
    "Rhodes-HPC-CE1 (rhodes-hpc-ce1.svc.osg-htc.org)",
@@ -71,9 +73,10 @@
    "UAH-Voyager-CE1 (uah-voyager-ce1.svc.osg-htc.org)",
    "UCMerced-Pinnacles-CE1 (ucmerced-pinnacles-ce1.svc.opensciencegrid.org)",
    "UConn-OSG_CE (gluskap.phys.uconn.edu)",
-   "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
+   "UIUC-TGI-RAILS-CE1 (uiuc-tgi-rails-ce1.svc.osg-htc.org)",
    "UTEP-Punakha-CE1 (utep-punakha-ce1.svc.osg-htc.org)",
    "UWM-Mortimer-CE1 (uwm-mortimer-ce1.svc.osg-htc.org)",
+   "VU-AUGIE-CE1 (vu-augie-ce1.svc.opensciencegrid.org)",
    "WSU-GRID-CE1 (wsu-grid-ce1.svc.opensciencegrid.org)"
   ],
   [
@@ -171,7 +174,7 @@
   ]
  ],
  "cc_star_gpu_count": [
-  11,
+  14,
   14,
   20
  ],
@@ -179,12 +182,15 @@
   [
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
    "Boise-State-Borah-CE1 (boise-state-borah-ce1.svc.osg-htc.org)",
+   "Duke-NCShare-CE1 (duke-ncshare-ce1.svc.osg-htc.org)",
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
+   "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "SLU-Libra-CE1 (slu-libra-ce1.svc.osg-htc.org)",
    "TCNJ-ELSA-CE2 (tcnj-elsa-ce2.svc.opensciencegrid.org)",
+   "UIUC-TGI-RAILS-CE1 (uiuc-tgi-rails-ce1.svc.osg-htc.org)",
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
    "UTEP-Punakha-CE1 (utep-punakha-ce1.svc.osg-htc.org)",
    "WSU-GRID-CE1 (wsu-grid-ce1.svc.opensciencegrid.org)"
@@ -229,30 +235,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "7,228",
-  "214,806",
-  "2,195,015"
+  "8,592",
+  "212,864",
+  "2,200,956"
  ],
  "cc_star_usage": [
-  "610,758",
-  "24,700,983",
-  "304,661,030"
+  "902,995",
+  "24,593,491",
+  "304,581,941"
  ],
  "gpu_usage": [
-  "23,101",
-  "431,967",
-  "5,558,715"
+  "23,631",
+  "443,831",
+  "5,566,378"
  ],
- "last_update": 1792306107,
- "last_update_str": "2026-10-18 01:48",
+ "last_update": 1792392506,
+ "last_update_str": "2026-10-19 01:48",
  "multi_inst": [
-  "657,315",
-  "13,548,420",
-  "131,908,513"
+  "792,948",
+  "13,838,373",
+  "132,345,835"
  ],
  "osg_connect": [
-  "940,627",
-  "37,142,107",
-  "343,822,326"
+  "980,186",
+  "36,845,782",
+  "344,243,581"
  ]
 }
