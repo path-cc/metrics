@@ -1,8 +1,8 @@
 Issue key,Assignee,Original Due Date,Current Due Date,Number of Due Date Changes
 HTCONDOR-4009,Todd Tannenbaum,None,None,0
-HTCONDOR-4008,Todd L Miller,None,None,0
+HTCONDOR-4008,Greg Thain,None,None,0
 HTCONDOR-4007,John (TJ) Knoeller,None,None,0
-HTCONDOR-4002,Todd L Miller,None,None,0
+HTCONDOR-4002,Greg Thain,None,None,0
 HTCONDOR-3999,John (TJ) Knoeller,None,None,0
 HTCONDOR-3996,John (TJ) Knoeller,None,None,0
 HTCONDOR-3995,Greg Thain,None,None,0
@@ -97,7 +97,7 @@ HTCONDOR-3876,Greg Thain,None,None,0
 HTCONDOR-3875,Greg Thain,None,None,0
 HTCONDOR-3874,John (TJ) Knoeller,None,None,0
 HTCONDOR-3873,Greg Thain,None,None,0
-HTCONDOR-3872,Greg Thain,None,None,0
+HTCONDOR-3872,Todd L Miller,None,None,0
 HTCONDOR-3871,Todd L Miller,None,None,0
 HTCONDOR-3870,Jaime Frey,None,None,0
 HTCONDOR-3869,Greg Thain,None,None,0
@@ -142,7 +142,6 @@ HTCONDOR-3826,Cole Bollig,None,None,0
 HTCONDOR-3825,Jason Patton,None,None,0
 HTCONDOR-3822,Greg Thain,None,None,0
 HTCONDOR-3821,Brian Bockelman,None,None,0
-HTCONDOR-3820,Greg Thain,None,None,0
 HTCONDOR-3819,Greg Thain,None,None,0
 HTCONDOR-3818,Brian Bockelman,None,None,0
 HTCONDOR-3817,Tim Theisen,None,None,0
@@ -3648,15 +3647,19 @@ HTCONDOR-4,Greg Thain,None,None,0
 HTCONDOR-3,None,None,None,0
 HTCONDOR-2,Greg Thain,None,None,0
 HTCONDOR-1,Greg Thain,None,None,0
+SOFTWARE-6442,Mat Selmeci,None,None,0
+SOFTWARE-6441,Mat Selmeci,None,None,0
+SOFTWARE-6440,Mat Selmeci,2026-11-11,2026-11-11,0
 SOFTWARE-6438,Tim Theisen,None,None,0
 SOFTWARE-6436,MATTHEW WESTPHALL,None,None,0
 SOFTWARE-6435,None,None,None,0
 SOFTWARE-6434,Tim Theisen,None,None,0
 SOFTWARE-6433,Tim Theisen,None,None,0
 SOFTWARE-6432,MATTHEW WESTPHALL,None,None,0
+SOFTWARE-6431,Mat Selmeci,None,None,0
 SOFTWARE-6430,Tim Theisen,None,None,0
 SOFTWARE-6428,MATTHEW WESTPHALL,None,None,0
-SOFTWARE-6427,Mat Selmeci,None,None,0
+SOFTWARE-6427,Tim Theisen,None,None,0
 SOFTWARE-6426,MATTHEW WESTPHALL,None,None,0
 SOFTWARE-6425,MATTHEW WESTPHALL,None,None,0
 SOFTWARE-6424,MATTHEW WESTPHALL,None,2026-10-30,1
