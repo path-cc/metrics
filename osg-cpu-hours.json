@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,638,144",
-  "50,448,550",
-  "478,187,155"
+  "1,464,669",
+  "50,074,563",
+  "478,579,517"
  ],
  "amnh_count": [
   2,
@@ -25,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "6,603",
-  "173,601",
-  "7,335,057"
+  "891",
+  "174,492",
+  "7,324,813"
  ],
  "campus_orgs": [
   "0",
@@ -35,7 +35,7 @@
   "162,322"
  ],
  "cc_star_count": [
-  37,
+  38,
   39,
   50
  ],
@@ -59,6 +59,7 @@
    "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
+   "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "PDX-Orca-CE1 (pdx-orca-ce1.svc.osg-htc.org)",
    "PSU-LIGO (psu-ligo-ce1.svc.opensciencegrid.org)",
@@ -184,10 +185,10 @@
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
+   "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "SLU-Libra-CE1 (slu-libra-ce1.svc.osg-htc.org)",
    "TCNJ-ELSA-CE2 (tcnj-elsa-ce2.svc.opensciencegrid.org)",
-   "UIUC-TGI-RAILS-CE1 (uiuc-tgi-rails-ce1.svc.osg-htc.org)",
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
    "UTEP-Punakha-CE1 (utep-punakha-ce1.svc.osg-htc.org)",
    "WSU-GRID-CE1 (wsu-grid-ce1.svc.opensciencegrid.org)"
@@ -232,30 +233,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "4,227",
-  "212,088",
-  "2,208,623"
+  "4,647",
+  "209,179",
+  "2,208,572"
  ],
  "cc_star_usage": [
-  "1,040,656",
-  "25,262,885",
-  "305,090,112"
+  "776,499",
+  "24,699,998",
+  "305,279,939"
  ],
  "gpu_usage": [
-  "18,760",
-  "467,745",
-  "5,570,318"
+  "18,053",
+  "476,530",
+  "5,570,674"
  ],
- "last_update": 1792565315,
- "last_update_str": "2026-10-21 01:48",
+ "last_update": 1792651709,
+ "last_update_str": "2026-10-22 01:48",
  "multi_inst": [
-  "690,583",
-  "14,198,060",
-  "133,136,371"
+  "530,700",
+  "14,324,550",
+  "133,306,362"
  ],
  "osg_connect": [
-  "947,561",
-  "36,250,490",
-  "344,888,461"
+  "933,968",
+  "35,750,013",
+  "345,110,832"
  ]
 }
