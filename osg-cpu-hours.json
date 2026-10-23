@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,464,669",
-  "50,074,563",
-  "478,579,517"
+  "1,428,866",
+  "49,129,549",
+  "478,977,111"
  ],
  "amnh_count": [
   2,
@@ -25,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "891",
-  "174,492",
-  "7,324,813"
+  "28,666",
+  "203,159",
+  "7,324,260"
  ],
  "campus_orgs": [
   "0",
@@ -35,8 +35,8 @@
   "162,322"
  ],
  "cc_star_count": [
-  38,
-  39,
+  40,
+  40,
   50
  ],
  "cc_star_fqdns": [
@@ -45,6 +45,7 @@
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
    "ASU-Sol-CE1 (asu-sol-ce1.svc.opensciencegrid.org)",
    "Alabama-CHPC-CE1 (ua-hpc-ce1.svc.osg-htc.org)",
+   "Boise-State-Borah-CE1 (boise-state-borah-ce1.svc.osg-htc.org)",
    "Duke-NCShare-CE1 (duke-ncshare-ce1.svc.osg-htc.org)",
    "FANDM-ITS-CE1 (fandm-its-ce1.svc.opensciencegrid.org)",
    "Hawaii-Koa-CE1 (hawaii-koa-ce1.svc.osg-htc.org)",
@@ -59,6 +60,7 @@
    "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
+   "ORU-Titan-CE1 (oru-titan-ce1.svc.opensciencegrid.org)",
    "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "PDX-Orca-CE1 (pdx-orca-ce1.svc.osg-htc.org)",
@@ -100,6 +102,7 @@
    "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
+   "ORU-Titan-CE1 (oru-titan-ce1.svc.opensciencegrid.org)",
    "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "PDX-Orca-CE1 (pdx-orca-ce1.svc.osg-htc.org)",
@@ -175,13 +178,14 @@
   ]
  ],
  "cc_star_gpu_count": [
-  11,
+  12,
   14,
   20
  ],
  "cc_star_gpu_fqdns": [
   [
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
+   "Boise-State-Borah-CE1 (boise-state-borah-ce1.svc.osg-htc.org)",
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
@@ -233,30 +237,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "4,647",
-  "209,179",
-  "2,208,572"
+  "10,913",
+  "214,666",
+  "2,216,779"
  ],
  "cc_star_usage": [
-  "776,499",
-  "24,699,998",
-  "305,279,939"
+  "1,269,789",
+  "25,636,129",
+  "305,342,293"
  ],
  "gpu_usage": [
-  "18,053",
-  "476,530",
-  "5,570,674"
+  "24,029",
+  "494,197",
+  "5,579,218"
  ],
- "last_update": 1792651709,
- "last_update_str": "2026-10-22 01:48",
+ "last_update": 1792738111,
+ "last_update_str": "2026-10-23 01:48",
  "multi_inst": [
-  "530,700",
-  "14,324,550",
-  "133,306,362"
+  "470,248",
+  "14,538,057",
+  "133,415,548"
  ],
  "osg_connect": [
-  "933,968",
-  "35,750,013",
-  "345,110,832"
+  "958,618",
+  "34,591,491",
+  "345,399,240"
  ]
 }

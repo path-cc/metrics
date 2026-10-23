@@ -1,7 +1,7 @@
 {
-  "begin_date": "2026-09-22",
-  "end_date": "2026-10-21",
-  "generated_at": "2026-10-22 01:48",
+  "begin_date": "2026-09-23",
+  "end_date": "2026-10-22",
+  "generated_at": "2026-10-23 01:48",
   "oscf": {
     "facilities": [
       "American Museum of Natural History",
@@ -45,6 +45,7 @@
       "New Mexico State University",
       "North Carolina State University",
       "Oak Ridge National Laboratory",
+      "Oral Roberts University",
       "Pennsylvania State University",
       "Portland State University",
       "Purdue University West Lafayette",
@@ -96,7 +97,7 @@
       "Villanova University",
       "Wayne State University"
     ],
-    "num_facilities": 91
+    "num_facilities": 92
   },
   "oscf_or_osdf": {
     "facilities": [
@@ -153,6 +154,7 @@
       "New Mexico State University",
       "North Carolina State University",
       "Oak Ridge National Laboratory",
+      "Oral Roberts University",
       "Pennsylvania State University",
       "Portland State University",
       "Purdue University West Lafayette",
@@ -209,7 +211,7 @@
       "Villanova University",
       "Wayne State University"
     ],
-    "num_facilities": 108
+    "num_facilities": 109
   },
   "osdf": {
     "facilities": [
