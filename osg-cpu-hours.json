@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,379,222",
-  "49,886,210",
-  "478,461,705"
+  "1,526,463",
+  "49,754,978",
+  "478,748,895"
  ],
  "amnh_count": [
   2,
@@ -25,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "11,608",
-  "226,822",
-  "7,325,174"
+  "8,374",
+  "235,196",
+  "7,315,452"
  ],
  "campus_orgs": [
   "0",
@@ -35,7 +35,7 @@
   "162,322"
  ],
  "cc_star_count": [
-  35,
+  37,
   40,
   50
  ],
@@ -43,6 +43,7 @@
   [
    "AMNH-Huxley-CE1 (amnh-huxley-ce1.svc.osg-htc.org)",
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
+   "ASU-Sol-CE1 (asu-sol-ce1.svc.opensciencegrid.org)",
    "Alabama-CHPC-CE1 (ua-hpc-ce1.svc.osg-htc.org)",
    "Boise-State-Borah-CE1 (boise-state-borah-ce1.svc.osg-htc.org)",
    "Duke-NCShare-CE1 (duke-ncshare-ce1.svc.osg-htc.org)",
@@ -56,6 +57,7 @@
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "Maine-Penobscot-CE1 (maine-penobscot-ce1.svc.opensciencegrid.org)",
    "Missouri-Hellbender-CE1 (missouri-hellbender-ce1.svc.opensciencegrid.org)",
+   "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
    "ORU-Titan-CE1 (oru-titan-ce1.svc.opensciencegrid.org)",
@@ -71,10 +73,10 @@
    "TCNJ-ELSA-CE2 (tcnj-elsa-ce2.svc.opensciencegrid.org)",
    "UAH-Voyager-CE1 (uah-voyager-ce1.svc.osg-htc.org)",
    "UCMerced-Pinnacles-CE1 (ucmerced-pinnacles-ce1.svc.opensciencegrid.org)",
+   "UConn-OSG_CE (gluskap.phys.uconn.edu)",
    "UIUC-TGI-RAILS-CE1 (uiuc-tgi-rails-ce1.svc.osg-htc.org)",
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
    "UWM-Mortimer-CE1 (uwm-mortimer-ce1.svc.osg-htc.org)",
-   "VU-AUGIE-CE1 (vu-augie-ce1.svc.opensciencegrid.org)",
    "WSU-GRID-CE1 (wsu-grid-ce1.svc.opensciencegrid.org)"
   ],
   [
@@ -173,7 +175,7 @@
   ]
  ],
  "cc_star_gpu_count": [
-  10,
+  9,
   14,
   20
  ],
@@ -187,7 +189,6 @@
    "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "TCNJ-ELSA-CE2 (tcnj-elsa-ce2.svc.opensciencegrid.org)",
-   "UIUC-TGI-RAILS-CE1 (uiuc-tgi-rails-ce1.svc.osg-htc.org)",
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)"
   ],
   [
@@ -230,30 +231,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "10,847",
-  "223,580",
-  "2,235,277"
+  "7,908",
+  "220,658",
+  "2,241,078"
  ],
  "cc_star_usage": [
-  "929,884",
-  "25,686,245",
-  "305,287,767"
+  "869,232",
+  "25,360,410",
+  "305,649,347"
  ],
  "gpu_usage": [
-  "27,647",
-  "530,584",
-  "5,609,845"
+  "24,781",
+  "541,721",
+  "5,615,882"
  ],
- "last_update": 1792911104,
- "last_update_str": "2026-10-25 01:51",
+ "last_update": 1792997506,
+ "last_update_str": "2026-10-26 01:51",
  "multi_inst": [
-  "428,029",
-  "14,996,187",
-  "133,502,808"
+  "484,194",
+  "15,191,732",
+  "133,482,154"
  ],
  "osg_connect": [
-  "951,193",
-  "34,890,022",
-  "344,796,574"
+  "1,042,269",
+  "34,563,245",
+  "345,104,418"
  ]
 }
