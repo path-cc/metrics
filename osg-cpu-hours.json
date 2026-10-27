@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,526,463",
-  "49,754,978",
-  "478,748,895"
+  "1,444,758",
+  "50,017,100",
+  "478,551,383"
  ],
  "amnh_count": [
   2,
@@ -25,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "8,374",
-  "235,196",
-  "7,315,452"
+  "23,359",
+  "258,555",
+  "7,307,390"
  ],
  "campus_orgs": [
   "0",
@@ -35,7 +35,7 @@
   "162,322"
  ],
  "cc_star_count": [
-  37,
+  38,
   40,
   50
  ],
@@ -61,12 +61,12 @@
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
    "ORU-Titan-CE1 (oru-titan-ce1.svc.opensciencegrid.org)",
-   "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "PDX-Orca-CE1 (pdx-orca-ce1.svc.osg-htc.org)",
    "PSU-LIGO (psu-ligo-ce1.svc.opensciencegrid.org)",
    "Rhodes-HPC-CE1 (rhodes-hpc-ce1.svc.osg-htc.org)",
    "SIUE-Kyna-CE1 (siue-kyna-ce1.svc.osg-htc.org)",
+   "SLU-Libra-CE1 (slu-libra-ce1.svc.osg-htc.org)",
    "SU-ITS-AD-CE4 (its-condor-ce4.ad.syr.edu)",
    "SU-ITS-CE2 (its-condor-ce2.syr.edu)",
    "SU-ITS-CE3 (its-condor-ce3.syr.edu)",
@@ -77,6 +77,7 @@
    "UIUC-TGI-RAILS-CE1 (uiuc-tgi-rails-ce1.svc.osg-htc.org)",
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
    "UWM-Mortimer-CE1 (uwm-mortimer-ce1.svc.osg-htc.org)",
+   "VU-AUGIE-CE1 (vu-augie-ce1.svc.opensciencegrid.org)",
    "WSU-GRID-CE1 (wsu-grid-ce1.svc.opensciencegrid.org)"
   ],
   [
@@ -175,7 +176,7 @@
   ]
  ],
  "cc_star_gpu_count": [
-  9,
+  11,
   14,
   20
  ],
@@ -188,8 +189,10 @@
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
+   "SLU-Libra-CE1 (slu-libra-ce1.svc.osg-htc.org)",
    "TCNJ-ELSA-CE2 (tcnj-elsa-ce2.svc.opensciencegrid.org)",
-   "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)"
+   "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
+   "WSU-GRID-CE1 (wsu-grid-ce1.svc.opensciencegrid.org)"
   ],
   [
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
@@ -231,30 +234,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "7,908",
-  "220,658",
-  "2,241,078"
+  "5,361",
+  "222,434",
+  "2,253,314"
  ],
  "cc_star_usage": [
-  "869,232",
-  "25,360,410",
-  "305,649,347"
+  "1,213,704",
+  "26,344,875",
+  "305,697,804"
  ],
  "gpu_usage": [
-  "24,781",
-  "541,721",
-  "5,615,882"
+  "16,317",
+  "546,509",
+  "5,623,866"
  ],
- "last_update": 1792997506,
- "last_update_str": "2026-10-26 01:51",
+ "last_update": 1793083905,
+ "last_update_str": "2026-10-27 01:51",
  "multi_inst": [
-  "484,194",
-  "15,191,732",
-  "133,482,154"
+  "496,403",
+  "15,568,165",
+  "133,492,419"
  ],
  "osg_connect": [
-  "1,042,269",
-  "34,563,245",
-  "345,104,418"
+  "948,355",
+  "34,448,935",
+  "344,896,641"
  ]
 }
