@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,514,483",
-  "50,654,203",
-  "480,338,091"
+  "1,443,542",
+  "50,405,703",
+  "480,628,037"
  ],
  "amnh_count": [
   2,
@@ -25,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "7,375",
-  "282,678",
-  "7,299,029"
+  "29,957",
+  "312,635",
+  "7,316,759"
  ],
  "campus_orgs": [
   "0",
@@ -35,7 +35,7 @@
   "162,322"
  ],
  "cc_star_count": [
-  38,
+  40,
   40,
   50
  ],
@@ -65,6 +65,7 @@
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "PDX-Orca-CE1 (pdx-orca-ce1.svc.osg-htc.org)",
    "PSU-LIGO (psu-ligo-ce1.svc.opensciencegrid.org)",
+   "Rhodes-HPC-CE1 (rhodes-hpc-ce1.svc.osg-htc.org)",
    "SIUE-Kyna-CE1 (siue-kyna-ce1.svc.osg-htc.org)",
    "SLU-Libra-CE1 (slu-libra-ce1.svc.osg-htc.org)",
    "SU-ITS-AD-CE4 (its-condor-ce4.ad.syr.edu)",
@@ -73,6 +74,7 @@
    "TCNJ-ELSA-CE2 (tcnj-elsa-ce2.svc.opensciencegrid.org)",
    "UAH-Voyager-CE1 (uah-voyager-ce1.svc.osg-htc.org)",
    "UCMerced-Pinnacles-CE1 (ucmerced-pinnacles-ce1.svc.opensciencegrid.org)",
+   "UConn-OSG_CE (gluskap.phys.uconn.edu)",
    "UIUC-TGI-RAILS-CE1 (uiuc-tgi-rails-ce1.svc.osg-htc.org)",
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
    "UTEP-Punakha-CE1 (utep-punakha-ce1.svc.osg-htc.org)",
@@ -236,30 +238,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "9,095",
-  "238,187",
-  "2,276,250"
+  "9,474",
+  "246,121",
+  "2,284,337"
  ],
  "cc_star_usage": [
-  "1,079,750",
-  "26,415,449",
-  "305,490,408"
+  "968,141",
+  "26,381,575",
+  "305,689,996"
  ],
  "gpu_usage": [
-  "17,773",
-  "577,060",
-  "5,637,054"
+  "17,105",
+  "590,880",
+  "5,635,877"
  ],
- "last_update": 1793256694,
- "last_update_str": "2026-10-29 01:51",
+ "last_update": 1793343057,
+ "last_update_str": "2026-10-30 01:50",
  "multi_inst": [
-  "545,578",
-  "16,230,766",
-  "133,718,082"
+  "376,968",
+  "16,289,558",
+  "133,753,331"
  ],
  "osg_connect": [
-  "968,905",
-  "34,423,437",
-  "346,457,686"
+  "1,066,574",
+  "34,116,144",
+  "346,712,384"
  ]
 }
