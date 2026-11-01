@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,310,731",
-  "49,696,923",
-  "480,707,480"
+  "1,421,226",
+  "49,143,884",
+  "481,072,716"
  ],
  "amnh_count": [
   2,
@@ -25,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "18,302",
-  "330,937",
-  "7,320,572"
+  "13,653",
+  "344,591",
+  "7,314,357"
  ],
  "campus_orgs": [
   "0",
@@ -35,7 +35,7 @@
   "162,322"
  ],
  "cc_star_count": [
-  38,
+  36,
   40,
   50
  ],
@@ -63,7 +63,6 @@
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "PDX-Orca-CE1 (pdx-orca-ce1.svc.osg-htc.org)",
    "PSU-LIGO (psu-ligo-ce1.svc.opensciencegrid.org)",
-   "Rhodes-HPC-CE1 (rhodes-hpc-ce1.svc.osg-htc.org)",
    "SIUE-Kyna-CE1 (siue-kyna-ce1.svc.osg-htc.org)",
    "SLU-Libra-CE1 (slu-libra-ce1.svc.osg-htc.org)",
    "SU-ITS-AD-CE4 (its-condor-ce4.ad.syr.edu)",
@@ -77,7 +76,6 @@
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
    "UTEP-Punakha-CE1 (utep-punakha-ce1.svc.osg-htc.org)",
    "UWM-Mortimer-CE1 (uwm-mortimer-ce1.svc.osg-htc.org)",
-   "VU-AUGIE-CE1 (vu-augie-ce1.svc.opensciencegrid.org)",
    "WSU-GRID-CE1 (wsu-grid-ce1.svc.opensciencegrid.org)"
   ],
   [
@@ -176,14 +174,13 @@
   ]
  ],
  "cc_star_gpu_count": [
-  13,
+  12,
   14,
   20
  ],
  "cc_star_gpu_fqdns": [
   [
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
-   "Boise-State-Borah-CE1 (boise-state-borah-ce1.svc.osg-htc.org)",
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
@@ -236,30 +233,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "9,429",
-  "248,719",
-  "2,293,109"
+  "4,612",
+  "247,747",
+  "2,292,565"
  ],
  "cc_star_usage": [
-  "1,042,080",
-  "26,888,164",
-  "305,649,441"
+  "767,271",
+  "26,753,557",
+  "305,741,920"
  ],
  "gpu_usage": [
-  "15,720",
-  "597,941",
-  "5,634,179"
+  "8,599",
+  "598,137",
+  "5,624,349"
  ],
- "last_update": 1793429429,
- "last_update_str": "2026-10-31 01:50",
+ "last_update": 1793515905,
+ "last_update_str": "2026-11-01 01:51",
  "multi_inst": [
-  "143,698",
-  "15,920,244",
-  "133,557,239"
+  "353,326",
+  "15,688,176",
+  "133,676,604"
  ],
  "osg_connect": [
-  "1,167,033",
-  "33,776,678",
-  "346,987,918"
+  "1,067,899",
+  "33,455,707",
+  "347,233,790"
  ]
 }
