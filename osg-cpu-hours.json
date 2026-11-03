@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,435,805",
-  "48,621,057",
-  "481,567,589"
+  "1,610,202",
+  "48,753,561",
+  "482,099,960"
  ],
  "amnh_count": [
   2,
@@ -25,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "8,914",
-  "353,506",
-  "7,292,318"
+  "10,959",
+  "364,465",
+  "7,275,128"
  ],
  "campus_orgs": [
   "0",
@@ -35,7 +35,7 @@
   "162,322"
  ],
  "cc_star_count": [
-  37,
+  35,
   40,
   50
  ],
@@ -59,9 +59,8 @@
    "Missouri-Hellbender-CE1 (missouri-hellbender-ce1.svc.opensciencegrid.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
-   "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
+   "ORU-Titan-CE1 (oru-titan-ce1.svc.opensciencegrid.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
-   "PDX-Orca-CE1 (pdx-orca-ce1.svc.osg-htc.org)",
    "PSU-LIGO (psu-ligo-ce1.svc.opensciencegrid.org)",
    "Rhodes-HPC-CE1 (rhodes-hpc-ce1.svc.osg-htc.org)",
    "SIUE-Kyna-CE1 (siue-kyna-ce1.svc.osg-htc.org)",
@@ -74,7 +73,6 @@
    "UCMerced-Pinnacles-CE1 (ucmerced-pinnacles-ce1.svc.opensciencegrid.org)",
    "UConn-OSG_CE (gluskap.phys.uconn.edu)",
    "UIUC-TGI-RAILS-CE1 (uiuc-tgi-rails-ce1.svc.osg-htc.org)",
-   "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
    "UTEP-Punakha-CE1 (utep-punakha-ce1.svc.osg-htc.org)",
    "UWM-Mortimer-CE1 (uwm-mortimer-ce1.svc.osg-htc.org)",
    "WSU-GRID-CE1 (wsu-grid-ce1.svc.opensciencegrid.org)"
@@ -235,30 +233,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "6,170",
-  "246,712",
-  "2,299,694"
+  "5,632",
+  "249,655",
+  "2,305,475"
  ],
  "cc_star_usage": [
-  "991,125",
-  "26,796,323",
-  "305,500,786"
+  "750,233",
+  "27,070,634",
+  "305,678,740"
  ],
  "gpu_usage": [
-  "10,150",
-  "597,300",
-  "5,620,061"
+  "14,160",
+  "604,399",
+  "5,626,411"
  ],
- "last_update": 1793602322,
- "last_update_str": "2026-11-02 00:52",
+ "last_update": 1793688711,
+ "last_update_str": "2026-11-03 00:51",
  "multi_inst": [
-  "502,185",
-  "15,495,321",
-  "134,102,392"
+  "600,900",
+  "15,621,409",
+  "134,602,853"
  ],
  "osg_connect": [
-  "933,620",
-  "33,125,736",
-  "347,302,874"
+  "1,009,301",
+  "33,132,151",
+  "347,334,784"
  ]
 }

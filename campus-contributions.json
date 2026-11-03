@@ -1,7 +1,7 @@
 {
-  "begin_date": "2026-10-03",
-  "end_date": "2026-11-01",
-  "generated_at": "2026-11-02 00:51",
+  "begin_date": "2026-10-04",
+  "end_date": "2026-11-02",
+  "generated_at": "2026-11-03 00:51",
   "oscf": {
     "facilities": [
       "American Museum of Natural History",
@@ -57,7 +57,6 @@
       "Swinburne University of Technology",
       "Syracuse University",
       "The University of Texas at Arlington",
-      "The University of Texas at Austin",
       "The University of Texas at El Paso",
       "Thomas Jefferson National Accelerator Facility",
       "Universidade Estadual Paulista (Unesp)",
@@ -97,7 +96,7 @@
       "Villanova University",
       "Wayne State University"
     ],
-    "num_facilities": 92
+    "num_facilities": 91
   },
   "oscf_or_osdf": {
     "facilities": [
@@ -167,7 +166,6 @@
       "Swinburne University of Technology",
       "Syracuse University",
       "The University of Texas at Arlington",
-      "The University of Texas at Austin",
       "The University of Texas at El Paso",
       "The University of Tokyo",
       "Thomas Jefferson National Accelerator Facility",
@@ -211,7 +209,7 @@
       "Villanova University",
       "Wayne State University"
     ],
-    "num_facilities": 109
+    "num_facilities": 108
   },
   "osdf": {
     "facilities": [
