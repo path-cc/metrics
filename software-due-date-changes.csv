@@ -2,9 +2,11 @@ Issue key,Assignee,Original Due Date,Current Due Date,Number of Due Date Changes
 HTCONDOR-4058,Cole Bollig,None,None,0
 HTCONDOR-4056,John (TJ) Knoeller,None,None,0
 HTCONDOR-4055,John (TJ) Knoeller,None,None,0
+HTCONDOR-4053,Cole Bollig,None,None,0
 HTCONDOR-4052,Greg Thain,None,None,0
-HTCONDOR-4051,Jaime Frey,None,None,0
+HTCONDOR-4051,Tim Theisen,None,None,0
 HTCONDOR-4050,Todd L Miller,None,None,0
+HTCONDOR-4049,Cole Bollig,None,None,0
 HTCONDOR-4047,Todd L Miller,None,None,0
 HTCONDOR-4046,Tim Theisen,None,None,0
 HTCONDOR-4045,Todd Tannenbaum,None,None,0
@@ -25,6 +27,7 @@ HTCONDOR-4012,Jaime Frey,None,None,0
 HTCONDOR-4011,Todd L Miller,None,None,0
 HTCONDOR-4008,Greg Thain,None,None,0
 HTCONDOR-4007,Greg Thain,None,None,0
+HTCONDOR-4006,Cole Bollig,None,None,0
 HTCONDOR-4003,Todd L Miller,None,None,0
 HTCONDOR-4002,Greg Thain,None,None,0
 HTCONDOR-3999,John (TJ) Knoeller,None,None,0
@@ -3680,7 +3683,7 @@ SOFTWARE-6441,Tim Theisen,None,None,0
 SOFTWARE-6440,MATTHEW WESTPHALL,2026-11-11,2026-11-11,0
 SOFTWARE-6438,Tim Theisen,None,None,0
 SOFTWARE-6436,MATTHEW WESTPHALL,None,None,0
-SOFTWARE-6435,None,None,None,0
+SOFTWARE-6435,MATTHEW WESTPHALL,None,None,0
 SOFTWARE-6434,Tim Theisen,None,None,0
 SOFTWARE-6433,Tim Theisen,None,None,0
 SOFTWARE-6432,MATTHEW WESTPHALL,None,None,0
@@ -3691,6 +3694,7 @@ SOFTWARE-6427,Tim Theisen,None,None,0
 SOFTWARE-6426,MATTHEW WESTPHALL,None,None,0
 SOFTWARE-6425,MATTHEW WESTPHALL,None,None,0
 SOFTWARE-6424,MATTHEW WESTPHALL,None,2026-10-30,1
+SOFTWARE-6423,Mat Selmeci,None,None,0
 SOFTWARE-6419,Mat Selmeci,None,None,0
 SOFTWARE-6417,Tim Theisen,None,None,0
 SOFTWARE-6416,MATTHEW WESTPHALL,None,None,0
