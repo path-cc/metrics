@@ -1,16 +1,17 @@
 {
  "all_non_lhc": [
-  "1,472,361",
-  "48,345,865",
-  "482,406,047"
+  "1,528,801",
+  "47,951,672",
+  "482,968,848"
  ],
  "amnh_count": [
-  1,
+  2,
   2,
   3
  ],
  "amnh_fqdns": [
   [
+   "AMNH-Huxley-CE1 (amnh-huxley-ce1.svc.osg-htc.org)",
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)"
   ],
   [
@@ -24,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "2,924",
-  "367,389",
-  "7,251,028"
+  "4,813",
+  "372,203",
+  "7,226,308"
  ],
  "campus_orgs": [
   "0",
@@ -34,12 +35,13 @@
   "162,322"
  ],
  "cc_star_count": [
-  36,
+  37,
   40,
   50
  ],
  "cc_star_fqdns": [
   [
+   "AMNH-Huxley-CE1 (amnh-huxley-ce1.svc.osg-htc.org)",
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
    "ASU-Sol-CE1 (asu-sol-ce1.svc.opensciencegrid.org)",
    "Alabama-CHPC-CE1 (ua-hpc-ce1.svc.osg-htc.org)",
@@ -71,10 +73,10 @@
    "UAH-Voyager-CE1 (uah-voyager-ce1.svc.osg-htc.org)",
    "UCMerced-Pinnacles-CE1 (ucmerced-pinnacles-ce1.svc.opensciencegrid.org)",
    "UConn-OSG_CE (gluskap.phys.uconn.edu)",
+   "UIUC-TGI-RAILS-CE1 (uiuc-tgi-rails-ce1.svc.osg-htc.org)",
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
    "UTEP-Punakha-CE1 (utep-punakha-ce1.svc.osg-htc.org)",
    "UWM-Mortimer-CE1 (uwm-mortimer-ce1.svc.osg-htc.org)",
-   "VU-AUGIE-CE1 (vu-augie-ce1.svc.opensciencegrid.org)",
    "WSU-GRID-CE1 (wsu-grid-ce1.svc.opensciencegrid.org)"
   ],
   [
@@ -232,30 +234,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "7,605",
-  "248,581",
-  "2,312,902"
+  "5,373",
+  "243,651",
+  "2,317,908"
  ],
  "cc_star_usage": [
-  "1,123,061",
-  "27,295,818",
-  "305,581,030"
+  "762,927",
+  "27,133,441",
+  "305,619,158"
  ],
  "gpu_usage": [
-  "19,311",
-  "611,521",
-  "5,637,468"
+  "15,727",
+  "614,227",
+  "5,640,443"
  ],
- "last_update": 1793775104,
- "last_update_str": "2026-11-04 00:51",
+ "last_update": 1793861511,
+ "last_update_str": "2026-11-05 00:51",
  "multi_inst": [
-  "538,779",
-  "15,899,341",
-  "135,048,075"
+  "506,184",
+  "16,046,660",
+  "135,461,460"
  ],
  "osg_connect": [
-  "933,581",
-  "32,446,523",
-  "347,195,649"
+  "1,022,616",
+  "31,905,011",
+  "347,345,065"
  ]
 }
