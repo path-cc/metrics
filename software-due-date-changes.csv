@@ -1,5 +1,7 @@
 Issue key,Assignee,Original Due Date,Current Due Date,Number of Due Date Changes
+HTCONDOR-4063,Todd L Miller,None,None,0
 HTCONDOR-4061,Todd L Miller,None,None,0
+HTCONDOR-4060,Todd L Miller,None,None,0
 HTCONDOR-4058,Cole Bollig,None,None,0
 HTCONDOR-4056,John (TJ) Knoeller,None,None,0
 HTCONDOR-4055,John (TJ) Knoeller,None,None,0
@@ -25,7 +27,6 @@ HTCONDOR-4015,Greg Thain,None,None,0
 HTCONDOR-4014,Greg Thain,None,None,0
 HTCONDOR-4013,Jaime Frey,None,None,0
 HTCONDOR-4012,Jaime Frey,None,None,0
-HTCONDOR-4011,Todd L Miller,None,None,0
 HTCONDOR-4008,Greg Thain,None,None,0
 HTCONDOR-4007,Greg Thain,None,None,0
 HTCONDOR-4006,Cole Bollig,None,None,0
@@ -3677,8 +3678,10 @@ HTCONDOR-4,Greg Thain,None,None,0
 HTCONDOR-3,None,None,None,0
 HTCONDOR-2,Greg Thain,None,None,0
 HTCONDOR-1,Greg Thain,None,None,0
+SOFTWARE-6447,Mat Selmeci,None,None,0
 SOFTWARE-6446,MATTHEW WESTPHALL,None,None,0
 SOFTWARE-6444,Tim Theisen,None,None,0
+SOFTWARE-6443,Mat Selmeci,None,None,0
 SOFTWARE-6442,Tim Theisen,None,None,0
 SOFTWARE-6441,Tim Theisen,None,None,0
 SOFTWARE-6440,MATTHEW WESTPHALL,2026-11-11,2026-11-11,0
