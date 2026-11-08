@@ -1,18 +1,19 @@
 {
-    "Active Users": 74,
+    "Active Users": 78,
     "Date Range:": "01 Nov 2026 - 30 Nov 2026",
     "New Users (directory paths)": [
+        "/ospool/ap40/data/shmuel.berman",
+        "/ospool/ap40/data/ankushreddy.kanuganti",
+        "/ospool/ap40/data/emma.turetsky",
+        "/ospool/ap40/data/zhehao.zhang",
+        "/ospool/ap40/data/chencheng.jiang",
         "/ospool/ap40/data/seyyedfaridoddin.fattahpour",
         "/ospool/ap40/data/charles.forsyth",
-        "/ospool/ap40/data/zhehao.zhang",
-        "/ospool/ap40/data/ruben.tikidji-hamburyan",
-        "/ospool/ap40/data/taihsuan.yang",
         "/ospool/ap40/data/pedrohenrique.orem",
-        "/ospool/ap40/data/ankushreddy.kanuganti",
+        "/ospool/ap41/data/ikuo.takei",
+        "/ospool/ap40/data/taihsuan.yang",
         "/ospool/ap40/data/max.grinsven",
-        "/ospool/ap40/data/emma.turetsky",
-        "/ospool/ap40/data/shmuel.berman",
-        "/ospool/ap40/data/chencheng.jiang"
+        "/ospool/ap40/data/ruben.tikidji-hamburyan"
     ],
-    "Number of new users": 11
+    "Number of new users": 12
 }
