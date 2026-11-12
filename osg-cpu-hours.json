@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,478,598",
-  "47,713,055",
-  "485,022,233"
+  "1,538,096",
+  "47,624,799",
+  "485,794,055"
  ],
  "amnh_count": [
   2,
@@ -25,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "7,128",
-  "425,173",
-  "7,204,883"
+  "6,345",
+  "413,711",
+  "7,182,605"
  ],
  "campus_orgs": [
   "0",
@@ -43,6 +43,7 @@
   [
    "AMNH-Huxley-CE1 (amnh-huxley-ce1.svc.osg-htc.org)",
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
+   "ASU-Sol-CE1 (asu-sol-ce1.svc.opensciencegrid.org)",
    "Alabama-CHPC-CE1 (ua-hpc-ce1.svc.osg-htc.org)",
    "Boise-State-Borah-CE1 (boise-state-borah-ce1.svc.osg-htc.org)",
    "Duke-NCShare-CE1 (duke-ncshare-ce1.svc.osg-htc.org)",
@@ -56,10 +57,10 @@
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "Maine-Penobscot-CE1 (maine-penobscot-ce1.svc.opensciencegrid.org)",
    "Missouri-Hellbender-CE1 (missouri-hellbender-ce1.svc.opensciencegrid.org)",
+   "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
    "ORU-Titan-CE1 (oru-titan-ce1.svc.opensciencegrid.org)",
-   "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "PDX-Orca-CE1 (pdx-orca-ce1.svc.osg-htc.org)",
    "PSU-LIGO (psu-ligo-ce1.svc.opensciencegrid.org)",
@@ -77,7 +78,6 @@
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
    "UTEP-Punakha-CE1 (utep-punakha-ce1.svc.osg-htc.org)",
    "UWM-Mortimer-CE1 (uwm-mortimer-ce1.svc.osg-htc.org)",
-   "VU-AUGIE-CE1 (vu-augie-ce1.svc.opensciencegrid.org)",
    "WSU-GRID-CE1 (wsu-grid-ce1.svc.opensciencegrid.org)"
   ],
   [
@@ -237,30 +237,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "9,202",
-  "228,759",
-  "2,360,151"
+  "4,992",
+  "223,712",
+  "2,363,761"
  ],
  "cc_star_usage": [
-  "919,159",
-  "27,861,030",
-  "305,880,599"
+  "888,458",
+  "27,313,449",
+  "305,674,103"
  ],
  "gpu_usage": [
-  "23,450",
-  "577,457",
-  "5,743,213"
+  "20,269",
+  "573,632",
+  "5,760,191"
  ],
- "last_update": 1794379887,
- "last_update_str": "2026-11-11 00:51",
+ "last_update": 1794466255,
+ "last_update_str": "2026-11-12 00:50",
  "multi_inst": [
-  "566,548",
-  "16,848,077",
-  "138,569,061"
+  "604,052",
+  "16,833,242",
+  "139,166,896"
  ],
  "osg_connect": [
-  "912,049",
-  "30,864,978",
-  "346,290,849"
+  "934,043",
+  "30,791,556",
+  "346,464,836"
  ]
 }

@@ -1,5 +1,6 @@
 Issue key,Assignee,Original Due Date,Current Due Date,Number of Due Date Changes
-HTCONDOR-4074,Cole Bollig,None,None,0
+HTCONDOR-4076,Todd L Miller,None,None,0
+HTCONDOR-4074,Jaime Frey,None,None,0
 HTCONDOR-4073,Todd L Miller,None,None,0
 HTCONDOR-4068,John (TJ) Knoeller,None,None,0
 HTCONDOR-4067,Greg Thain,None,None,0
@@ -58,7 +59,7 @@ HTCONDOR-3981,John (TJ) Knoeller,None,None,0
 HTCONDOR-3980,Cole Bollig,None,None,0
 HTCONDOR-3978,Greg Thain,None,None,0
 HTCONDOR-3977,Cole Bollig,None,None,0
-HTCONDOR-3976,Jaime Frey,None,None,0
+HTCONDOR-3976,Todd L Miller,None,None,0
 HTCONDOR-3975,John (TJ) Knoeller,None,None,0
 HTCONDOR-3974,John (TJ) Knoeller,None,None,0
 HTCONDOR-3973,Cole Bollig,None,None,0
@@ -322,6 +323,7 @@ HTCONDOR-3650,Jaime Frey,None,2026-04-10,1
 HTCONDOR-3649,Greg Thain,None,None,0
 HTCONDOR-3648,Cole Bollig,None,None,0
 HTCONDOR-3646,John (TJ) Knoeller,None,None,0
+HTCONDOR-3645,Jaime Frey,None,None,0
 HTCONDOR-3644,Greg Thain,None,None,0
 HTCONDOR-3643,Greg Thain,None,None,0
 HTCONDOR-3642,Tim Theisen,None,None,0
@@ -2467,6 +2469,7 @@ HTCONDOR-1324,Todd L Miller,None,None,0
 HTCONDOR-1323,Jaime Frey,None,None,0
 HTCONDOR-1322,Todd L Miller,None,None,0
 HTCONDOR-1321,Todd L Miller,None,None,0
+HTCONDOR-1319,None,None,None,0
 HTCONDOR-1318,Cole Bollig,None,None,0
 HTCONDOR-1317,Greg Thain,None,None,0
 HTCONDOR-1316,Tim Theisen,None,None,0
@@ -2497,6 +2500,7 @@ HTCONDOR-1291,Tim Theisen,None,None,0
 HTCONDOR-1290,Cole Bollig,None,None,0
 HTCONDOR-1289,Jason Patton,None,None,0
 HTCONDOR-1288,Jason Patton,2022-08-31,2022-08-31,0
+HTCONDOR-1287,Mat Selmeci,None,None,0
 HTCONDOR-1286,Greg Thain,None,None,0
 HTCONDOR-1285,Tim Theisen,None,None,0
 HTCONDOR-1284,Cole Bollig,None,None,0
@@ -2709,6 +2713,7 @@ HTCONDOR-1050,Greg Thain,None,None,0
 HTCONDOR-1049,Greg Thain,None,None,0
 HTCONDOR-1048,Cole Bollig,None,None,0
 HTCONDOR-1047,Greg Thain,None,None,0
+HTCONDOR-1045,Jaime Frey,None,None,0
 HTCONDOR-1043,Greg Thain,None,None,0
 HTCONDOR-1042,Greg Thain,None,None,0
 HTCONDOR-1040,Greg Thain,None,None,0
@@ -3685,9 +3690,11 @@ HTCONDOR-4,Greg Thain,None,None,0
 HTCONDOR-3,None,None,None,0
 HTCONDOR-2,Greg Thain,None,None,0
 HTCONDOR-1,Greg Thain,None,None,0
+SOFTWARE-6454,None,None,None,0
 SOFTWARE-6452,Mat Selmeci,None,None,0
 SOFTWARE-6447,Tim Theisen,None,None,0
 SOFTWARE-6446,MATTHEW WESTPHALL,None,None,0
+SOFTWARE-6445,Mat Selmeci,None,None,0
 SOFTWARE-6444,Tim Theisen,None,None,0
 SOFTWARE-6443,Mat Selmeci,None,None,0
 SOFTWARE-6442,Tim Theisen,None,None,0
