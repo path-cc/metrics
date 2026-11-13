@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,538,096",
-  "47,624,799",
-  "485,794,055"
+  "1,450,106",
+  "47,633,905",
+  "486,302,975"
  ],
  "amnh_count": [
   2,
@@ -25,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "6,345",
-  "413,711",
-  "7,182,605"
+  "6,625",
+  "405,300",
+  "7,171,889"
  ],
  "campus_orgs": [
   "0",
@@ -35,7 +35,7 @@
   "162,322"
  ],
  "cc_star_count": [
-  38,
+  37,
   40,
   50
  ],
@@ -57,14 +57,12 @@
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "Maine-Penobscot-CE1 (maine-penobscot-ce1.svc.opensciencegrid.org)",
    "Missouri-Hellbender-CE1 (missouri-hellbender-ce1.svc.opensciencegrid.org)",
-   "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
    "ORU-Titan-CE1 (oru-titan-ce1.svc.opensciencegrid.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "PDX-Orca-CE1 (pdx-orca-ce1.svc.osg-htc.org)",
    "PSU-LIGO (psu-ligo-ce1.svc.opensciencegrid.org)",
-   "Rhodes-HPC-CE1 (rhodes-hpc-ce1.svc.osg-htc.org)",
    "SIUE-Kyna-CE1 (siue-kyna-ce1.svc.osg-htc.org)",
    "SLU-Libra-CE1 (slu-libra-ce1.svc.osg-htc.org)",
    "SU-ITS-AD-CE4 (its-condor-ce4.ad.syr.edu)",
@@ -78,6 +76,7 @@
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
    "UTEP-Punakha-CE1 (utep-punakha-ce1.svc.osg-htc.org)",
    "UWM-Mortimer-CE1 (uwm-mortimer-ce1.svc.osg-htc.org)",
+   "VU-AUGIE-CE1 (vu-augie-ce1.svc.opensciencegrid.org)",
    "WSU-GRID-CE1 (wsu-grid-ce1.svc.opensciencegrid.org)"
   ],
   [
@@ -237,30 +236,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "4,992",
-  "223,712",
-  "2,363,761"
+  "5,163",
+  "224,406",
+  "2,368,260"
  ],
  "cc_star_usage": [
-  "888,458",
-  "27,313,449",
-  "305,674,103"
+  "1,076,371",
+  "27,891,742",
+  "305,986,993"
  ],
  "gpu_usage": [
-  "20,269",
-  "573,632",
-  "5,760,191"
+  "23,887",
+  "587,770",
+  "5,782,108"
  ],
- "last_update": 1794466255,
- "last_update_str": "2026-11-12 00:50",
+ "last_update": 1794552677,
+ "last_update_str": "2026-11-13 00:51",
  "multi_inst": [
-  "604,052",
-  "16,833,242",
-  "139,166,896"
+  "528,141",
+  "16,817,084",
+  "139,659,475"
  ],
  "osg_connect": [
-  "934,043",
-  "30,791,556",
-  "346,464,836"
+  "921,965",
+  "30,816,820",
+  "346,481,177"
  ]
 }
