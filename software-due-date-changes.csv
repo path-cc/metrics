@@ -1,10 +1,12 @@
 Issue key,Assignee,Original Due Date,Current Due Date,Number of Due Date Changes
-HTCONDOR-4082,John (TJ) Knoeller,None,None,0
-HTCONDOR-4081,John (TJ) Knoeller,None,None,0
+HTCONDOR-4084,Jaime Frey,None,None,0
+HTCONDOR-4082,Cole Bollig,None,None,0
+HTCONDOR-4081,Cole Bollig,None,None,0
 HTCONDOR-4078,Todd L Miller,None,None,0
+HTCONDOR-4077,Cole Bollig,None,None,0
 HTCONDOR-4076,Todd L Miller,None,None,0
 HTCONDOR-4074,Jaime Frey,None,None,0
-HTCONDOR-4073,Todd L Miller,None,None,0
+HTCONDOR-4073,Greg Thain,None,None,0
 HTCONDOR-4068,John (TJ) Knoeller,None,None,0
 HTCONDOR-4067,Greg Thain,None,None,0
 HTCONDOR-4066,Tim Theisen,None,None,0
@@ -3695,13 +3697,14 @@ HTCONDOR-4,Greg Thain,None,None,0
 HTCONDOR-3,None,None,None,0
 HTCONDOR-2,Greg Thain,None,None,0
 HTCONDOR-1,Greg Thain,None,None,0
+SOFTWARE-6456,MATTHEW WESTPHALL,2026-11-16,2026-11-16,0
 SOFTWARE-6454,None,None,None,0
 SOFTWARE-6452,Mat Selmeci,None,None,0
 SOFTWARE-6447,Tim Theisen,None,None,0
 SOFTWARE-6446,MATTHEW WESTPHALL,None,None,0
-SOFTWARE-6445,Mat Selmeci,None,None,0
+SOFTWARE-6445,Tim Theisen,None,None,0
 SOFTWARE-6444,Tim Theisen,None,None,0
-SOFTWARE-6443,Mat Selmeci,None,None,0
+SOFTWARE-6443,Tim Theisen,None,None,0
 SOFTWARE-6442,Tim Theisen,None,None,0
 SOFTWARE-6441,Tim Theisen,None,None,0
 SOFTWARE-6440,MATTHEW WESTPHALL,2026-11-11,2026-11-11,0
