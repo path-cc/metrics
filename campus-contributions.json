@@ -1,7 +1,7 @@
 {
-  "begin_date": "2026-10-16",
-  "end_date": "2026-11-14",
-  "generated_at": "2026-11-15 00:51",
+  "begin_date": "2026-10-17",
+  "end_date": "2026-11-15",
+  "generated_at": "2026-11-16 00:51",
   "oscf": {
     "facilities": [
       "American Museum of Natural History",
@@ -28,7 +28,6 @@
       "Indiana University",
       "Inter-University Centre for Astronomy and Astrophysics",
       "Jackson State University",
-      "Joint Institute for Nuclear Research",
       "Kansas State University",
       "Kent State University",
       "Lafayette College",
@@ -97,7 +96,7 @@
       "Villanova University",
       "Wayne State University"
     ],
-    "num_facilities": 92
+    "num_facilities": 91
   },
   "oscf_or_osdf": {
     "facilities": [
@@ -132,7 +131,6 @@
       "Internet2",
       "Istituto Nazionale di Fisica Nucleare, Sezione di Bologna",
       "Jackson State University",
-      "Joint Institute for Nuclear Research",
       "Kansas State University",
       "Kennesaw State University",
       "Kent State University",
@@ -211,7 +209,7 @@
       "Villanova University",
       "Wayne State University"
     ],
-    "num_facilities": 109
+    "num_facilities": 108
   },
   "osdf": {
     "facilities": [
