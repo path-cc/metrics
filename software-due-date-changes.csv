@@ -1,13 +1,18 @@
 Issue key,Assignee,Original Due Date,Current Due Date,Number of Due Date Changes
+HTCONDOR-4091,Tim Theisen,None,None,0
+HTCONDOR-4090,John (TJ) Knoeller,None,None,0
+HTCONDOR-4089,Jason Patton,None,2026-11-27,1
+HTCONDOR-4088,Greg Thain,None,None,0
+HTCONDOR-4087,John (TJ) Knoeller,None,None,0
 HTCONDOR-4084,Jaime Frey,None,None,0
 HTCONDOR-4082,Cole Bollig,None,None,0
 HTCONDOR-4081,Cole Bollig,None,None,0
 HTCONDOR-4078,Todd L Miller,None,None,0
-HTCONDOR-4077,Cole Bollig,None,None,0
+HTCONDOR-4077,Todd L Miller,None,None,0
 HTCONDOR-4076,Todd L Miller,None,None,0
 HTCONDOR-4074,Jaime Frey,None,None,0
 HTCONDOR-4073,Greg Thain,None,None,0
-HTCONDOR-4068,John (TJ) Knoeller,None,None,0
+HTCONDOR-4068,Jaime Frey,None,None,0
 HTCONDOR-4067,Greg Thain,None,None,0
 HTCONDOR-4066,Tim Theisen,None,None,0
 HTCONDOR-4065,Greg Thain,None,None,0
@@ -17,7 +22,7 @@ HTCONDOR-4062,John (TJ) Knoeller,None,None,0
 HTCONDOR-4061,Todd L Miller,None,None,0
 HTCONDOR-4060,Greg Thain,None,None,0
 HTCONDOR-4058,Cole Bollig,None,None,0
-HTCONDOR-4056,John (TJ) Knoeller,None,None,0
+HTCONDOR-4056,None,None,None,0
 HTCONDOR-4055,John (TJ) Knoeller,None,None,0
 HTCONDOR-4053,Jaime Frey,None,None,0
 HTCONDOR-4052,Greg Thain,None,None,0
@@ -31,6 +36,7 @@ HTCONDOR-4044,Greg Thain,None,None,0
 HTCONDOR-4043,John (TJ) Knoeller,None,None,0
 HTCONDOR-4042,Todd Tannenbaum,None,None,0
 HTCONDOR-4041,Greg Thain,None,None,0
+HTCONDOR-4022,Greg Thain,None,None,0
 HTCONDOR-4021,Cole Bollig,None,None,0
 HTCONDOR-4020,Jaime Frey,None,None,0
 HTCONDOR-4019,John (TJ) Knoeller,None,None,0
@@ -117,6 +123,7 @@ HTCONDOR-3910,Tim Theisen,None,None,0
 HTCONDOR-3908,Greg Thain,None,None,0
 HTCONDOR-3907,Jaime Frey,None,None,0
 HTCONDOR-3906,Todd L Miller,None,None,0
+HTCONDOR-3905,Tim Theisen,None,None,0
 HTCONDOR-3904,Greg Thain,None,None,0
 HTCONDOR-3903,John (TJ) Knoeller,None,None,0
 HTCONDOR-3901,Jaime Frey,None,None,0

@@ -1,16 +1,17 @@
 {
  "all_non_lhc": [
-  "1,523,241",
-  "46,904,301",
-  "486,864,734"
+  "1,337,340",
+  "46,656,521",
+  "486,436,636"
  ],
  "amnh_count": [
-  1,
+  2,
   2,
   3
  ],
  "amnh_fqdns": [
   [
+   "AMNH-Huxley-CE1 (amnh-huxley-ce1.svc.osg-htc.org)",
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)"
   ],
   [
@@ -24,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "5,064",
-  "365,151",
-  "7,107,053"
+  "9,656",
+  "360,096",
+  "7,091,253"
  ],
  "campus_orgs": [
   "0",
@@ -34,12 +35,13 @@
   "162,322"
  ],
  "cc_star_count": [
-  37,
+  39,
   40,
   50
  ],
  "cc_star_fqdns": [
   [
+   "AMNH-Huxley-CE1 (amnh-huxley-ce1.svc.osg-htc.org)",
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
    "Alabama-CHPC-CE1 (ua-hpc-ce1.svc.osg-htc.org)",
    "Boise-State-Borah-CE1 (boise-state-borah-ce1.svc.osg-htc.org)",
@@ -54,6 +56,7 @@
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "Maine-Penobscot-CE1 (maine-penobscot-ce1.svc.opensciencegrid.org)",
    "Missouri-Hellbender-CE1 (missouri-hellbender-ce1.svc.opensciencegrid.org)",
+   "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
    "ORU-Titan-CE1 (oru-titan-ce1.svc.opensciencegrid.org)",
@@ -237,30 +240,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "6,788",
-  "237,011",
-  "2,396,742"
+  "3,585",
+  "233,829",
+  "2,399,504"
  ],
  "cc_star_usage": [
-  "977,648",
-  "27,727,291",
-  "305,830,076"
+  "1,028,100",
+  "28,144,615",
+  "306,090,498"
  ],
  "gpu_usage": [
-  "25,245",
-  "602,404",
-  "5,844,845"
+  "27,186",
+  "606,817",
+  "5,868,949"
  ],
- "last_update": 1794811916,
- "last_update_str": "2026-11-16 00:51",
+ "last_update": 1794898244,
+ "last_update_str": "2026-11-17 00:50",
  "multi_inst": [
-  "501,662",
-  "16,432,739",
-  "141,193,795"
+  "401,616",
+  "16,201,986",
+  "141,619,984"
  ],
  "osg_connect": [
-  "1,021,578",
-  "30,471,561",
-  "345,508,616"
+  "935,724",
+  "30,454,534",
+  "344,654,329"
  ]
 }
