@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,129,347",
-  "45,955,181",
-  "485,827,406"
+  "1,275,402",
+  "45,619,310",
+  "486,264,018"
  ],
  "amnh_count": [
   0,
@@ -23,8 +23,8 @@
  ],
  "amnh_usage": [
   "0",
-  "356,518",
-  "7,068,699"
+  "349,914",
+  "7,029,020"
  ],
  "campus_orgs": [
   "0",
@@ -32,7 +32,7 @@
   "162,322"
  ],
  "cc_star_count": [
-  36,
+  37,
   40,
   50
  ],
@@ -51,6 +51,7 @@
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "Maine-Penobscot-CE1 (maine-penobscot-ce1.svc.opensciencegrid.org)",
    "Missouri-Hellbender-CE1 (missouri-hellbender-ce1.svc.opensciencegrid.org)",
+   "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
    "ORU-Titan-CE1 (oru-titan-ce1.svc.opensciencegrid.org)",
@@ -172,7 +173,7 @@
  ],
  "cc_star_gpu_count": [
   12,
-  15,
+  14,
   21
  ],
  "cc_star_gpu_fqdns": [
@@ -193,7 +194,6 @@
   [
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
    "Boise-State-Borah-CE1 (boise-state-borah-ce1.svc.osg-htc.org)",
-   "Duke-NCShare-CE1 (duke-ncshare-ce1.svc.osg-htc.org)",
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
@@ -232,30 +232,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "6,933",
-  "235,760",
-  "2,414,842"
+  "4,704",
+  "237,397",
+  "2,419,706"
  ],
  "cc_star_usage": [
-  "892,400",
-  "28,186,222",
-  "306,329,091"
+  "771,668",
+  "27,917,222",
+  "306,020,705"
  ],
  "gpu_usage": [
-  "21,826",
-  "618,525",
-  "5,916,159"
+  "22,222",
+  "623,059",
+  "5,936,159"
  ],
- "last_update": 1795071111,
- "last_update_str": "2026-11-19 00:51",
+ "last_update": 1795157464,
+ "last_update_str": "2026-11-20 00:51",
  "multi_inst": [
-  "314,236",
-  "15,919,449",
-  "142,658,061"
+  "285,575",
+  "15,499,850",
+  "142,987,077"
  ],
  "osg_connect": [
-  "815,111",
-  "30,035,732",
-  "343,007,022"
+  "989,826",
+  "30,119,459",
+  "343,114,618"
  ]
 }

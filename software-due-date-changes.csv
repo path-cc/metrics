@@ -1,11 +1,13 @@
 Issue key,Assignee,Original Due Date,Current Due Date,Number of Due Date Changes
-HTCONDOR-4098,Greg Thain,None,None,0
-HTCONDOR-4096,Todd L Miller,None,None,0
+HTCONDOR-4101,Greg Thain,None,None,0
+HTCONDOR-4100,Jaime Frey,None,None,0
+HTCONDOR-4098,Jaime Frey,None,None,0
+HTCONDOR-4096,Greg Thain,None,None,0
 HTCONDOR-4093,John (TJ) Knoeller,None,None,0
 HTCONDOR-4091,Tim Theisen,None,None,0
 HTCONDOR-4090,John (TJ) Knoeller,None,None,0
 HTCONDOR-4089,Jason Patton,None,2026-11-27,1
-HTCONDOR-4088,Jaime Frey,None,None,0
+HTCONDOR-4088,Greg Thain,None,None,0
 HTCONDOR-4087,John (TJ) Knoeller,None,None,0
 HTCONDOR-4084,Jaime Frey,None,None,0
 HTCONDOR-4082,Cole Bollig,None,None,0
