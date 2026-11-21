@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,275,402",
-  "45,619,310",
-  "486,264,018"
+  "1,116,185",
+  "45,241,999",
+  "486,353,650"
  ],
  "amnh_count": [
   0,
@@ -23,8 +23,8 @@
  ],
  "amnh_usage": [
   "0",
-  "349,914",
-  "7,029,020"
+  "349,023",
+  "6,991,505"
  ],
  "campus_orgs": [
   "0",
@@ -32,7 +32,7 @@
   "162,322"
  ],
  "cc_star_count": [
-  37,
+  33,
   40,
   50
  ],
@@ -55,11 +55,8 @@
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
    "ORU-Titan-CE1 (oru-titan-ce1.svc.opensciencegrid.org)",
-   "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
-   "PDX-Orca-CE1 (pdx-orca-ce1.svc.osg-htc.org)",
    "PSU-LIGO (psu-ligo-ce1.svc.opensciencegrid.org)",
-   "Rhodes-HPC-CE1 (rhodes-hpc-ce1.svc.osg-htc.org)",
    "SIUE-Kyna-CE1 (siue-kyna-ce1.svc.osg-htc.org)",
    "SLU-Libra-CE1 (slu-libra-ce1.svc.osg-htc.org)",
    "SU-ITS-AD-CE4 (its-condor-ce4.ad.syr.edu)",
@@ -69,7 +66,6 @@
    "UAH-Voyager-CE1 (uah-voyager-ce1.svc.osg-htc.org)",
    "UCMerced-Pinnacles-CE1 (ucmerced-pinnacles-ce1.svc.opensciencegrid.org)",
    "UConn-OSG_CE (gluskap.phys.uconn.edu)",
-   "UIUC-TGI-RAILS-CE1 (uiuc-tgi-rails-ce1.svc.osg-htc.org)",
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
    "UTEP-Punakha-CE1 (utep-punakha-ce1.svc.osg-htc.org)",
    "UWM-Mortimer-CE1 (uwm-mortimer-ce1.svc.osg-htc.org)",
@@ -172,7 +168,7 @@
   ]
  ],
  "cc_star_gpu_count": [
-  12,
+  11,
   14,
   21
  ],
@@ -186,7 +182,6 @@
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "SLU-Libra-CE1 (slu-libra-ce1.svc.osg-htc.org)",
    "TCNJ-ELSA-CE2 (tcnj-elsa-ce2.svc.opensciencegrid.org)",
-   "UIUC-TGI-RAILS-CE1 (uiuc-tgi-rails-ce1.svc.osg-htc.org)",
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
    "UTEP-Punakha-CE1 (utep-punakha-ce1.svc.osg-htc.org)",
    "WSU-GRID-CE1 (wsu-grid-ce1.svc.opensciencegrid.org)"
@@ -232,30 +227,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "4,704",
-  "237,397",
-  "2,419,706"
+  "8,021",
+  "240,904",
+  "2,426,726"
  ],
  "cc_star_usage": [
-  "771,668",
-  "27,917,222",
-  "306,020,705"
+  "1,006,273",
+  "28,146,870",
+  "306,295,194"
  ],
  "gpu_usage": [
-  "22,222",
-  "623,059",
-  "5,936,159"
+  "28,523",
+  "633,696",
+  "5,961,857"
  ],
- "last_update": 1795157464,
- "last_update_str": "2026-11-20 00:51",
+ "last_update": 1795243818,
+ "last_update_str": "2026-11-21 00:50",
  "multi_inst": [
-  "285,575",
-  "15,499,850",
-  "142,987,077"
+  "213,892",
+  "15,165,376",
+  "143,219,056"
  ],
  "osg_connect": [
-  "989,826",
-  "30,119,459",
-  "343,114,618"
+  "902,292",
+  "30,076,623",
+  "342,972,271"
  ]
 }
