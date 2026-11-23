@@ -1,8 +1,8 @@
 {
  "all_non_lhc": [
-  "1,199,884",
-  "44,931,272",
-  "486,396,407"
+  "1,975,815",
+  "45,220,344",
+  "487,343,059"
  ],
  "amnh_count": [
   1,
@@ -24,9 +24,9 @@
   ]
  ],
  "amnh_usage": [
-  "1,027",
-  "321,384",
-  "6,968,156"
+  "7,713",
+  "317,043",
+  "6,961,879"
  ],
  "campus_orgs": [
   "0",
@@ -46,20 +46,21 @@
    "Duke-NCShare-CE1 (duke-ncshare-ce1.svc.osg-htc.org)",
    "FANDM-ITS-CE1 (fandm-its-ce1.svc.opensciencegrid.org)",
    "Hawaii-Koa-CE1 (hawaii-koa-ce1.svc.osg-htc.org)",
-   "LEHIGH-HAWK-CE (osg-hawk-ce.cc.lehigh.edu)",
    "LSUHSC-Tigerfish-CE2 (lsuhsc-tf-ce2.svc.opensciencegrid.org)",
-   "Langston-Lion-CE1 (langston-lion-ce1.svc.osg-htc.org)",
    "MI-HORUS-CE2 (mi-horus-ce2.svc.osg-htc.org)",
    "MSU-DataMachine-CE1 (msu-datamachine-ce1.svc.opensciencegrid.org)",
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "Missouri-Hellbender-CE1 (missouri-hellbender-ce1.svc.opensciencegrid.org)",
-   "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
+   "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
    "ORU-Titan-CE1 (oru-titan-ce1.svc.opensciencegrid.org)",
    "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
+   "PDX-Orca-CE1 (pdx-orca-ce1.svc.osg-htc.org)",
    "PSU-LIGO (psu-ligo-ce1.svc.opensciencegrid.org)",
+   "Rhodes-HPC-CE1 (rhodes-hpc-ce1.svc.osg-htc.org)",
    "SIUE-Kyna-CE1 (siue-kyna-ce1.svc.osg-htc.org)",
+   "SLU-Libra-CE1 (slu-libra-ce1.svc.osg-htc.org)",
    "SU-ITS-AD-CE4 (its-condor-ce4.ad.syr.edu)",
    "SU-ITS-CE2 (its-condor-ce2.syr.edu)",
    "SU-ITS-CE3 (its-condor-ce3.syr.edu)",
@@ -67,7 +68,6 @@
    "UAH-Voyager-CE1 (uah-voyager-ce1.svc.osg-htc.org)",
    "UCMerced-Pinnacles-CE1 (ucmerced-pinnacles-ce1.svc.opensciencegrid.org)",
    "UConn-OSG_CE (gluskap.phys.uconn.edu)",
-   "UIUC-TGI-RAILS-CE1 (uiuc-tgi-rails-ce1.svc.osg-htc.org)",
    "UTC-Epyc (utc-epyc-ce1.svc.opensciencegrid.org)",
    "UTEP-Punakha-CE1 (utep-punakha-ce1.svc.osg-htc.org)",
    "UWM-Mortimer-CE1 (uwm-mortimer-ce1.svc.osg-htc.org)",
@@ -170,14 +170,15 @@
   ]
  ],
  "cc_star_gpu_count": [
-  12,
-  14,
+  13,
+  15,
   21
  ],
  "cc_star_gpu_fqdns": [
   [
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
    "Boise-State-Borah-CE1 (boise-state-borah-ce1.svc.osg-htc.org)",
+   "Duke-NCShare-CE1 (duke-ncshare-ce1.svc.osg-htc.org)",
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
@@ -192,6 +193,7 @@
   [
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
    "Boise-State-Borah-CE1 (boise-state-borah-ce1.svc.osg-htc.org)",
+   "Duke-NCShare-CE1 (duke-ncshare-ce1.svc.osg-htc.org)",
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
    "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
@@ -230,30 +232,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "6,627",
-  "236,761",
-  "2,432,389"
+  "9,205",
+  "233,696",
+  "2,441,088"
  ],
  "cc_star_usage": [
-  "717,131",
-  "27,594,213",
-  "305,814,543"
+  "896,364",
+  "27,877,815",
+  "306,094,382"
  ],
  "gpu_usage": [
-  "22,601",
-  "632,115",
-  "5,970,997"
+  "36,122",
+  "642,943",
+  "5,983,207"
  ],
- "last_update": 1795330248,
- "last_update_str": "2026-11-22 00:50",
+ "last_update": 1795416630,
+ "last_update_str": "2026-11-23 00:50",
  "multi_inst": [
-  "215,234",
-  "14,840,631",
-  "143,228,931"
+  "923,558",
+  "15,193,894",
+  "143,912,906"
  ],
  "osg_connect": [
-  "984,649",
-  "30,090,640",
-  "343,005,154"
+  "1,052,256",
+  "30,026,450",
+  "343,267,831"
  ]
 }
