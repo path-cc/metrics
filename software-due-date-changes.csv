@@ -1,7 +1,8 @@
 Issue key,Assignee,Original Due Date,Current Due Date,Number of Due Date Changes
-HTCONDOR-4105,Jaime Frey,None,None,0
+HTCONDOR-4107,John (TJ) Knoeller,None,None,0
+HTCONDOR-4105,Greg Thain,None,None,0
 HTCONDOR-4104,Greg Thain,None,None,0
-HTCONDOR-4103,John (TJ) Knoeller,None,None,0
+HTCONDOR-4103,Greg Thain,None,None,0
 HTCONDOR-4101,Greg Thain,None,None,0
 HTCONDOR-4100,Jaime Frey,None,None,0
 HTCONDOR-4098,Jaime Frey,None,None,0
@@ -27,7 +28,7 @@ HTCONDOR-4066,Tim Theisen,None,None,0
 HTCONDOR-4065,Greg Thain,None,None,0
 HTCONDOR-4064,Greg Thain,None,None,0
 HTCONDOR-4063,Todd L Miller,None,None,0
-HTCONDOR-4062,John (TJ) Knoeller,None,None,0
+HTCONDOR-4062,Todd Tannenbaum,None,None,0
 HTCONDOR-4061,Todd L Miller,None,None,0
 HTCONDOR-4060,Greg Thain,None,None,0
 HTCONDOR-4058,Cole Bollig,None,None,0
@@ -58,7 +59,7 @@ HTCONDOR-4013,Jaime Frey,None,None,0
 HTCONDOR-4012,Jaime Frey,None,None,0
 HTCONDOR-4008,Greg Thain,None,None,0
 HTCONDOR-4007,Greg Thain,None,None,0
-HTCONDOR-4006,Cole Bollig,None,None,0
+HTCONDOR-4006,Todd L Miller,None,None,0
 HTCONDOR-4003,Todd L Miller,None,None,0
 HTCONDOR-4002,Greg Thain,None,None,0
 HTCONDOR-3999,John (TJ) Knoeller,None,None,0
@@ -3715,6 +3716,7 @@ HTCONDOR-4,Greg Thain,None,None,0
 HTCONDOR-3,None,None,None,0
 HTCONDOR-2,Greg Thain,None,None,0
 HTCONDOR-1,Greg Thain,None,None,0
+SOFTWARE-6460,Mat Selmeci,None,None,0
 SOFTWARE-6456,MATTHEW WESTPHALL,2026-11-16,2026-11-16,0
 SOFTWARE-6454,None,None,None,0
 SOFTWARE-6452,Mat Selmeci,None,None,0
@@ -3727,6 +3729,7 @@ SOFTWARE-6442,Tim Theisen,None,None,0
 SOFTWARE-6441,Tim Theisen,None,None,0
 SOFTWARE-6440,MATTHEW WESTPHALL,2026-11-11,2026-11-11,0
 SOFTWARE-6438,Tim Theisen,None,None,0
+SOFTWARE-6437,MATTHEW WESTPHALL,None,None,0
 SOFTWARE-6436,MATTHEW WESTPHALL,None,None,0
 SOFTWARE-6435,MATTHEW WESTPHALL,None,None,0
 SOFTWARE-6434,Tim Theisen,None,None,0
