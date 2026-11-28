@@ -12,7 +12,7 @@ HTCONDOR-4093,John (TJ) Knoeller,None,None,0
 HTCONDOR-4091,Tim Theisen,None,None,0
 HTCONDOR-4090,John (TJ) Knoeller,None,None,0
 HTCONDOR-4089,Jason Patton,None,2026-11-27,1
-HTCONDOR-4088,Greg Thain,None,None,0
+HTCONDOR-4088,Jaime Frey,None,None,0
 HTCONDOR-4087,John (TJ) Knoeller,None,None,0
 HTCONDOR-4084,Jaime Frey,None,None,0
 HTCONDOR-4082,Cole Bollig,None,None,0
@@ -27,7 +27,7 @@ HTCONDOR-4068,Jaime Frey,None,None,0
 HTCONDOR-4067,Greg Thain,None,None,0
 HTCONDOR-4066,Tim Theisen,None,None,0
 HTCONDOR-4065,Greg Thain,None,None,0
-HTCONDOR-4064,Greg Thain,None,None,0
+HTCONDOR-4064,Todd L Miller,None,None,0
 HTCONDOR-4063,Todd L Miller,None,None,0
 HTCONDOR-4062,Todd Tannenbaum,None,None,0
 HTCONDOR-4061,Todd L Miller,None,None,0
@@ -61,7 +61,7 @@ HTCONDOR-4012,Jaime Frey,None,None,0
 HTCONDOR-4008,Greg Thain,None,None,0
 HTCONDOR-4007,Greg Thain,None,None,0
 HTCONDOR-4006,Todd L Miller,None,None,0
-HTCONDOR-4005,Greg Thain,None,None,0
+HTCONDOR-4005,Cole Bollig,None,None,0
 HTCONDOR-4003,Todd L Miller,None,None,0
 HTCONDOR-4002,Greg Thain,None,None,0
 HTCONDOR-3999,John (TJ) Knoeller,None,None,0
@@ -4349,6 +4349,7 @@ SOFTWARE-5731,Mat Selmeci,None,None,0
 SOFTWARE-5729,Tim Theisen,None,None,0
 SOFTWARE-5728,Mat Selmeci,None,None,0
 SOFTWARE-5727,Mat Selmeci,None,None,0
+SOFTWARE-5726,Mat Selmeci,None,None,0
 SOFTWARE-5725,Mat Selmeci,None,None,0
 SOFTWARE-5724,Mat Selmeci,None,None,0
 SOFTWARE-5723,Tim Theisen,None,2023-10-20,1

@@ -1,16 +1,17 @@
 {
  "all_non_lhc": [
-  "1,478,012",
-  "46,775,580",
-  "490,864,948"
+  "1,867,855",
+  "47,862,369",
+  "492,304,708"
  ],
  "amnh_count": [
-  1,
+  2,
   2,
   3
  ],
  "amnh_fqdns": [
   [
+   "AMNH-Huxley-CE1 (amnh-huxley-ce1.svc.osg-htc.org)",
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)"
   ],
   [
@@ -24,9 +25,9 @@
   ]
  ],
  "amnh_usage": [
-  "13,903",
-  "294,038",
-  "6,940,799"
+  "28,817",
+  "315,480",
+  "6,941,140"
  ],
  "campus_orgs": [
   "0",
@@ -34,14 +35,14 @@
   "162,322"
  ],
  "cc_star_count": [
-  36,
+  35,
   40,
   50
  ],
  "cc_star_fqdns": [
   [
+   "AMNH-Huxley-CE1 (amnh-huxley-ce1.svc.osg-htc.org)",
    "AMNH-Mendel-CE1 (amnh-mendel-ce1.svc.osg-htc.org)",
-   "ASU-Sol-CE1 (asu-sol-ce1.svc.opensciencegrid.org)",
    "Alabama-CHPC-CE1 (ua-hpc-ce1.svc.osg-htc.org)",
    "Boise-State-Borah-CE1 (boise-state-borah-ce1.svc.osg-htc.org)",
    "Duke-NCShare-CE1 (duke-ncshare-ce1.svc.osg-htc.org)",
@@ -49,19 +50,18 @@
    "Hawaii-Koa-CE1 (hawaii-koa-ce1.svc.osg-htc.org)",
    "LEHIGH-HAWK-CE (osg-hawk-ce.cc.lehigh.edu)",
    "LSUHSC-Tigerfish-CE2 (lsuhsc-tf-ce2.svc.opensciencegrid.org)",
+   "Langston-Lion-CE1 (langston-lion-ce1.svc.osg-htc.org)",
    "MI-HORUS-CE2 (mi-horus-ce2.svc.osg-htc.org)",
    "MSU-DataMachine-CE1 (msu-datamachine-ce1.svc.opensciencegrid.org)",
    "MTState-Tempest-CE1 (mtstate-tempest-ce1.svc.opensciencegrid.org)",
-   "Maine-Penobscot-CE1 (maine-penobscot-ce1.svc.opensciencegrid.org)",
    "Missouri-Hellbender-CE1 (missouri-hellbender-ce1.svc.opensciencegrid.org)",
-   "NCSU-OSG-CE1 (ncsu-osg-ce1.svc.osg-htc.org)",
    "ND-CAML-GPU-CE1 (nd-caml-gpu-ce1.svc.osg-htc.org)",
    "NMSU-Discovery-CE1 (nmsu-discovery-ce1.svc.osg-htc.org)",
    "ORU-Titan-CE1 (oru-titan-ce1.svc.opensciencegrid.org)",
+   "OU-Sooner-CE1 (ou-sooner-ce1.svc.osg-htc.org)",
    "PDX-Coeus-CE1 (pdx-coeus-ce1.svc.osg-htc.org)",
    "PDX-Orca-CE1 (pdx-orca-ce1.svc.osg-htc.org)",
    "PSU-LIGO (psu-ligo-ce1.svc.opensciencegrid.org)",
-   "Rhodes-HPC-CE1 (rhodes-hpc-ce1.svc.osg-htc.org)",
    "SIUE-Kyna-CE1 (siue-kyna-ce1.svc.osg-htc.org)",
    "SLU-Libra-CE1 (slu-libra-ce1.svc.osg-htc.org)",
    "SU-ITS-AD-CE4 (its-condor-ce4.ad.syr.edu)",
@@ -234,30 +234,30 @@
   ]
  ],
  "cc_star_gpu_usage": [
-  "5,251",
-  "216,836",
-  "2,459,405"
+  "6,210",
+  "213,671",
+  "2,464,300"
  ],
  "cc_star_usage": [
-  "1,178,088",
-  "27,958,201",
-  "306,345,789"
+  "953,400",
+  "27,831,851",
+  "306,183,458"
  ],
  "gpu_usage": [
-  "24,137",
-  "663,300",
-  "5,985,989"
+  "28,601",
+  "673,671",
+  "6,002,638"
  ],
- "last_update": 1795762263,
- "last_update_str": "2026-11-27 00:51",
+ "last_update": 1795848705,
+ "last_update_str": "2026-11-28 00:51",
  "multi_inst": [
-  "290,321",
-  "16,501,733",
-  "146,379,312"
+  "631,268",
+  "17,393,410",
+  "147,579,907"
  ],
  "osg_connect": [
-  "1,187,690",
-  "30,273,847",
-  "344,323,313"
+  "1,236,587",
+  "30,468,959",
+  "344,562,478"
  ]
 }
